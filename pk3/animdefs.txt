@@ -2,10 +2,9 @@
 texture ADO10105 range ADO10108 tics 8
 texture ADO10109 range ADO10112 tics 8
 texture ADO10113 range ADO10116 tics 8
-switch ADO10291 on pic ADO10298 tics 0
-switch ADO10292 on pic ADO10299 tics 0
-switch ADO10293 on pic ADO10300 tics 0
-switch ADO10294 on pic ADO10301 tics 0
-switch ADO10295 on pic ADO10302 tics 0
-switch ADO10296 on pic ADO10303 tics 0
-switch ADO10297 on pic ADO10304 tics 0
+switch ADO10285 on pic ADO10290 tics 0
+switch ADO10286 on pic ADO10291 tics 0
+switch ADO10287 on pic ADO10292 tics 0
+switch ADO10288 on pic ADO10293 tics 0
+switch ADO10289 on pic ADO10294 tics 0
+

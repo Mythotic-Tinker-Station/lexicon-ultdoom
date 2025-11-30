@@ -8,7 +8,7 @@ defaultmap
 
 map ADO1E1M1 "The Entry"
 {
-	sky1 = "ADO10283"
+	sky1 = "sky1"
 	music = "D_ADO101"
 	next = "ADO1E1M2"
 	titlepatch = "ADO1V00"
@@ -19,7 +19,7 @@ map ADO1E1M1 "The Entry"
 
 map ADO1E1M2 "Helicopter bay"
 {
-	sky1 = "ADO10283"
+	sky1 = "sky1"
 	music = "D_ADO102"
 	next = "ADO1E1M3"
 	titlepatch = "ADO1V01"
@@ -30,7 +30,7 @@ map ADO1E1M2 "Helicopter bay"
 
 map ADO1E1M3 "The doomed lab"
 {
-	sky1 = "ADO10283"
+	sky1 = "sky1"
 	music = "D_ADO103"
 	next = "ADO1E1M4"
 	secretnext = "ADO1E1M9"
@@ -42,7 +42,7 @@ map ADO1E1M3 "The doomed lab"
 
 map ADO1E1M4 "Substation 537A"
 {
-	sky1 = "ADO10283"
+	sky1 = "sky1"
 	music = "D_ADO104"
 	next = "ADO1E1M5"
 	titlepatch = "ADO1V03"
@@ -53,7 +53,7 @@ map ADO1E1M4 "Substation 537A"
 
 map ADO1E1M5 "Combat station"
 {
-	sky1 = "ADO10283"
+	sky1 = "sky1"
 	music = "D_ADO105"
 	next = "ADO1E1M6"
 	titlepatch = "ADO1V04"
@@ -64,7 +64,7 @@ map ADO1E1M5 "Combat station"
 
 map ADO1E1M6 "Toxic treatment plant"
 {
-	sky1 = "ADO10283"
+	sky1 = "sky1"
 	music = "D_ADO106"
 	next = "ADO1E1M7"
 	titlepatch = "ADO1V05"
@@ -75,7 +75,7 @@ map ADO1E1M6 "Toxic treatment plant"
 
 map ADO1E1M7 "Service base"
 {
-	sky1 = "ADO10283"
+	sky1 = "sky1"
 	music = "D_ADO107"
 	next = "ADO1E1M8"
 	titlepatch = "ADO1V06"
@@ -86,7 +86,7 @@ map ADO1E1M7 "Service base"
 
 map ADO1E1M8 "Paradox"
 {
-	sky1 = "ADO10283"
+	sky1 = "sky1"
 	music = "D_ADO108"
 	next = "ADO1E2M1"
 	titlepatch = "ADO1V07"
@@ -99,7 +99,7 @@ map ADO1E1M8 "Paradox"
 
 map ADO1E1M9 "Lugano Base ZRX"
 {
-	sky1 = "ADO10283"
+	sky1 = "sky1"
 	music = "D_ADO109"
 	next = "ADO1E2M4"
 	titlepatch = "ADO1V08"
