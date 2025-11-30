@@ -1,0 +1,14 @@
+[default]
+LEX_ULTD_PACKNAME = "Base (Ultimate Doom)";
+LEX_ULTD_GAMETYPE = "COOP";
+
+LEX_ULTD_1 = "ADO1";
+
+// 2002 A Doom Odyssey 10th Anniversary Edition
+ADO1_MAPSET_IWAD = "doom1";
+ADO1_MAPSET_AUTHORS = "Paul Corfiatis, various";
+ADO1_MAPSET_CUSTOM = "N";
+ADO1_MAPSET_DATE = "2012";
+ADO1_MAPSET_MAPS = "38";
+ADO1_MAPSET_TITLE = "2002 A Doom Odyssey 10th Anniversary";
+ADO1_MAPSET_PACK = "ULTD";
