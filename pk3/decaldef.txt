@@ -1,0 +1,2 @@
+// 2002 A Doom Odyssey - 10th Anniversary Edition
+generator Lexicon_ADO1_WolfensteinSS	BulletChip

@@ -1,0 +1,3 @@
+// 2002 A Doom Odyssey - 10th Anniversary Edition
+ADO1/DSSSSIT				ADO10001
+ADO1/DSSSDTH				ADO10002

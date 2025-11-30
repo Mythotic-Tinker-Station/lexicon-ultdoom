@@ -1,1 +1,1 @@
-include "mapinfo/2012ADO.txt" // 2002ad10.WAD
+include "mapinfo/2002ADO.txt" // 2002ad10.WAD
