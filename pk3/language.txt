@@ -17,19 +17,19 @@ ADO1_MAPSET_PACK = "ULTD";
 ADO1_MAPSET_IWAD = "doom1";
 
 // Ultimate Doom the Way id Did
-D1WD_MAPSET_AUTHORS = "Hellbent, ellmo, essentfortium, Xaser, Marnetmar, Alfonzo";
+D1WD_MAPSET_AUTHORS = "DTWID Team, music by Mr. Freeze";
 D1WD_MAPSET_CUSTOM = "N";
-D1WD_MAPSET_DATE = "2011";
+D1WD_MAPSET_DATE = "2019";
 D1WD_MAPSET_MAPS = "36";
 D1WD_MAPSET_TITLE = "Ultimate Doom the Way id Did";
 D1WD_MAPSET_PACK = "ULTD";
 D1WD_MAPSET_IWAD = "doom1";
 
-// Doom the Way id Did: Lost Episodes
-D1LE_MAPSET_AUTHORS = "Various";
+// Doom the Way id Did: The Lost Episodes
+D1LE_MAPSET_AUTHORS = "DTWID Team, music by Mr. Freeze, various coopfixes by BLOODWOLF";
 D1LE_MAPSET_CUSTOM = "N";
 D1LE_MAPSET_DATE = "2012";
 D1LE_MAPSET_MAPS = "54";
-D1LE_MAPSET_TITLE = "Doom the Way id Did : Lost Episodes";
+D1LE_MAPSET_TITLE = "Doom the Way id Did: The Lost Episodes";
 D1LE_MAPSET_PACK = "ULTD";
 D1LE_MAPSET_IWAD = "doom1";

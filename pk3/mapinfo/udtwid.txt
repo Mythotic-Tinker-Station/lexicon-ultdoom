@@ -1,485 +1,435 @@
+// Ultimate Doom the Way id Did Mapinfo
+
+defaultmap
+{
+	nojump
+	nocrouch
+}
+
 map D1WDE1M1 "Communications Bridge"
 {
-	titlepatch = "D1WDUV00"
+	titlepatch = "D1WDV00"
 	next = "D1WDE1M2"
-	secretnext = "D1WDE1M9"
+	secretnext = "D1WDE1M2"
 	sky1 = "SKY1"
-	par = 30
-	music = "$MUSIC_E1M1"
+	music = "D_D1WD01"
+	intermusic = "D_D1WDIN"
 	ExitPic = "D1WDINT1"
 	EnterPic = "D1WDINT1"
-	intermissionmusic = "$MUSIC_INTER"
 }
 
 map D1WDE1M2 "Military Bunker"
 {
-	titlepatch = "D1WDUV01"
+	titlepatch = "D1WDV01"
 	next = "D1WDE1M3"
-	secretnext = "D1WDE1M9"
+	secretnext = "D1WDE1M3"
 	sky1 = "SKY1"
-	par = 75
-	music = "$MUSIC_E1M2"
+	music = "D_D1WD02"
+	intermusic = "D_D1WDIN"
 	ExitPic = "D1WDINT1"
 	EnterPic = "D1WDINT1"
-	intermissionmusic = "$MUSIC_INTER"
 }
 
 map D1WDE1M3 "Fuel Synthesis"
 {
-	titlepatch = "D1WDUV02"
+	titlepatch = "D1WDV02"
 	next = "D1WDE1M4"
 	secretnext = "D1WDE1M9"
 	sky1 = "SKY1"
-	par = 120
-	music = "$MUSIC_E1M3"
+	music = "D_D1WD03"
+	intermusic = "D_D1WDIN"
 	ExitPic = "D1WDINT1"
 	EnterPic = "D1WDINT1"
-	intermissionmusic = "$MUSIC_INTER"
 }
 
 map D1WDE1M4 "Treatment Plant"
 {
-	titlepatch = "D1WDUV03"
+	titlepatch = "D1WDV03"
 	next = "D1WDE1M5"
-	secretnext = "D1WDE1M9"
+	secretnext = "D1WDE1M5"
 	sky1 = "SKY1"
-	par = 90
-	music = "$MUSIC_E1M4"
+	music = "D_D1WD04"
+	intermusic = "D_D1WDIN"
 	ExitPic = "D1WDINT1"
 	EnterPic = "D1WDINT1"
-	intermissionmusic = "$MUSIC_INTER"
 }
 
-map D1WDE1M5  "Engineering Bay"
+map D1WDE1M5 "Engineering Bay"
 {
-	titlepatch = "D1WDUV04"
+	titlepatch = "D1WDV04"
 	next = "D1WDE1M6"
-	secretnext = "D1WDE1M9"
+	secretnext = "D1WDE1M6"
 	sky1 = "SKY1"
-	par = 165
-	music = "$MUSIC_E1M5"
+	music = "D_D1WD05"
+	intermusic = "D_D1WDIN"
 	ExitPic = "D1WDINT1"
 	EnterPic = "D1WDINT1"
-	intermissionmusic = "$MUSIC_INTER"
 }
 
 map D1WDE1M6 "Reactor Complex"
 {
-	titlepatch = "D1WDUV05"
+	titlepatch = "D1WDV05"
 	next = "D1WDE1M7"
-	secretnext = "D1WDE1M9"
+	secretnext = "D1WDE1M7"
 	sky1 = "SKY1"
-	par = 180
-	music = "$MUSIC_E1M6"
+	music = "D_D1WD06"
+	intermusic = "D_D1WDIN"
 	ExitPic = "D1WDINT1"
 	EnterPic = "D1WDINT1"
-	intermissionmusic = "$MUSIC_INTER"
 }
 
 map D1WDE1M7 "Logic Core"
 {
-	titlepatch = "D1WDUV06"
+	titlepatch = "D1WDV06"
 	next = "D1WDE1M8"
-	secretnext = "D1WDE1M9"
+	secretnext = "D1WDE1M8"
 	sky1 = "SKY1"
-	par = 180
-	music = "$MUSIC_E1M7"
+	music = "D_D1WD07"
+	intermusic = "D_D1WDIN"
 	ExitPic = "D1WDINT1"
 	EnterPic = "D1WDINT1"
-	intermissionmusic = "$MUSIC_INTER"
 }
 
 map D1WDE1M8 "Transport Facility"
 {
-	titlepatch = "D1WDUV07"
+	titlepatch = "D1WDV07"
 	next = "D1WDE2M1"
-	secretnext = "D1WDE1M9"
+	secretnext = "D1WDE2M1"
 	sky1 = "SKY1"
-	par = 30
-	nosoundclipping
-	e1m8special
-	specialaction_lowerfloor
-	music = "$MUSIC_E1M8"
+	music = "D_D1WD08"
+	intermusic = "D_D1WDIN"
 	ExitPic = "D1WDINT1"
 	EnterPic = "D1WDINT1"
-	intermissionmusic = "$MUSIC_INTER"
+	nosoundclipping
+	baronspecial
+	specialaction_lowerfloor
 }
 
-map D1WDE1M9  "Excavation Site"
+map D1WDE1M9 "Excavation Site"
 {
-	titlepatch = "D1WDUV08"
+	titlepatch = "D1WDV08"
 	next = "D1WDE1M4"
 	secretnext = "D1WDE1M4"
 	sky1 = "SKY1"
-	par = 165
-	music = "$MUSIC_E1M9"
+	music = "D_D1WD09"
+	intermusic = "D_D1WDIN"
 	ExitPic = "D1WDINT1"
 	EnterPic = "D1WDINT1"
-	intermissionmusic = "$MUSIC_INTER"
 }
-
-// Registered/Retail Episode 2
 
 map D1WDE2M1 "Receiving Station"
 {
-	titlepatch = "D1WDUV10"
+	titlepatch = "D1WDV09"
 	next = "D1WDE2M2"
-	secretnext = "D1WDE2M9"
+	secretnext = "D1WDE2M2"
 	sky1 = "SKY2"
-	par = 90
-	music = "$MUSIC_E2M1"
+	music = "D_D1WD10"
+	intermusic = "D_D1WDIN"
 	ExitPic = "D1WDINT2"
 	EnterPic = "D1WDINT2"
-	intermissionmusic = "$MUSIC_INTER"
 }
 
 map D1WDE2M2 "Filtration Compound"
 {
-	titlepatch = "D1WDUV11"
+	titlepatch = "D1WDV10"
 	next = "D1WDE2M3"
-	secretnext = "D1WDE2M9"
+	secretnext = "D1WDE2M3"
 	sky1 = "SKY2"
-	par = 90
-	music = "$MUSIC_E2M2"
+	music = "D_D1WD11"
+	intermusic = "D_D1WDIN"
 	ExitPic = "D1WDINT2"
 	EnterPic = "D1WDINT2"
-	intermissionmusic = "$MUSIC_INTER"
 }
 
 map D1WDE2M3 "Rec Facility"
 {
-	titlepatch = "D1WDUV12"
+	titlepatch = "D1WDV11"
 	next = "D1WDE2M4"
-	secretnext = "D1WDE2M9"
+	secretnext = "D1WDE2M4"
 	sky1 = "SKY2"
-	par = 90
-	music = "$MUSIC_E2M3"
+	music = "D_D1WD12"
+	intermusic = "D_D1WDIN"
 	ExitPic = "D1WDINT2"
 	EnterPic = "D1WDINT2"
-	intermissionmusic = "$MUSIC_INTER"
 }
 
 map D1WDE2M4 "Mental Ward"
 {
-	titlepatch = "D1WDUV13"
+	titlepatch = "D1WDV12"
 	next = "D1WDE2M5"
-	secretnext = "D1WDE2M9"
+	secretnext = "D1WDE2M5"
 	sky1 = "SKY2"
-	par = 120
-	music = "$MUSIC_E2M4"
+	music = "D_D1WD13"
+	intermusic = "D_D1WDIN"
 	ExitPic = "D1WDINT2"
 	EnterPic = "D1WDINT2"
-	intermissionmusic = "$MUSIC_INTER"
 }
 
 map D1WDE2M5 "Deimos Command"
 {
-	titlepatch = "D1WDUV14"
+	titlepatch = "D1WDV13"
 	next = "D1WDE2M6"
 	secretnext = "D1WDE2M9"
 	sky1 = "SKY2"
-	par = 90
-	music = "$MUSIC_E2M5"
+	music = "D_D1WD14"
+	intermusic = "D_D1WDIN"
 	ExitPic = "D1WDINT2"
 	EnterPic = "D1WDINT2"
-	intermissionmusic = "$MUSIC_INTER"
 }
 
 map D1WDE2M6 "Foundry"
 {
-	titlepatch = "D1WDUV15"
+	titlepatch = "D1WDV14"
 	next = "D1WDE2M7"
-	secretnext = "D1WDE2M9"
+	secretnext = "D1WDE2M7"
 	sky1 = "SKY2"
-	par = 360
-	music = "$MUSIC_E2M6"
+	music = "D_D1WD15"
+	intermusic = "D_D1WDIN"
 	ExitPic = "D1WDINT2"
 	EnterPic = "D1WDINT2"
-	intermissionmusic = "$MUSIC_INTER"
 }
 
 map D1WDE2M7 "Ore Processing"
 {
-	titlepatch = "D1WDUV16"
+	titlepatch = "D1WDV15"
 	next = "D1WDE2M8"
-	secretnext = "D1WDE2M9"
+	secretnext = "D1WDE2M8"
 	sky1 = "SKY2"
-	par = 240
-	music = "$MUSIC_E2M7"
+	music = "D_D1WD16"
+	intermusic = "D_D1WDIN"
 	ExitPic = "D1WDINT2"
 	EnterPic = "D1WDINT2"
-	intermissionmusic = "$MUSIC_INTER"
 }
 
 map D1WDE2M8 "Vault"
 {
-	titlepatch = "D1WDUV17"
-	next = "D1WDE3M2"
-	secretnext = "D1WDE2M9"
+	titlepatch = "D1WDV16"
+	next = "D1WDE3M1"
+	secretnext = "D1WDE3M1"
 	sky1 = "SKY2"
-	par = 30
-	nosoundclipping
-	e2m8special
-	specialaction_exitlevel
-	music = "$MUSIC_E2M8"
+	music = "D_D1WD17"
+	intermusic = "D_D1WDIN"
 	ExitPic = "D1WDINT2"
 	EnterPic = "D1WDINT2"
-	intermissionmusic = "$MUSIC_INTER"
+	nosoundclipping
+	cyberdemonspecial
+	specialaction_exitlevel
 }
 
 map D1WDE2M9 "Nebulous Origins"
 {
-	titlepatch = "D1WDUV18"
+	titlepatch = "D1WDV17"
 	next = "D1WDE2M6"
 	secretnext = "D1WDE2M6"
 	sky1 = "SKY2"
-	par = 170
-	music = "$MUSIC_E2M9"
+	music = "D_D1WD18"
+	intermusic = "D_D1WDIN"
 	ExitPic = "D1WDINT2"
 	EnterPic = "D1WDINT2"
-	intermissionmusic = "$MUSIC_INTER"
 }
-
-// Registered/Retail Episode 3
 
 map D1WDE3M1 "Abyssal Stronghold"
 {
-	titlepatch = "D1WDUV20"
+	titlepatch = "D1WDV18"
 	next = "D1WDE3M2"
-	secretnext = "D1WDE3M9"
+	secretnext = "D1WDE3M2"
 	sky1 = "SKY3"
-	par = 90
-	music = "$MUSIC_E3M1"
+	music = "D_D1WD19"
+	intermusic = "D_D1WDIN"
 	ExitPic = "D1WDINT3"
 	EnterPic = "D1WDINT3"
-	intermissionmusic = "$MUSIC_INTER"
 }
 
 map D1WDE3M2 "City of Corpses"
 {
-	titlepatch = "D1WDUV21"
+	titlepatch = "D1WDV19"
 	next = "D1WDE3M3"
-	secretnext = "D1WDE3M9"
+	secretnext = "D1WDE3M3"
 	sky1 = "SKY3"
-	par = 45
-	music = "$MUSIC_E3M2"
+	music = "D_D1WD20"
+	intermusic = "D_D1WDIN"
 	ExitPic = "D1WDINT3"
 	EnterPic = "D1WDINT3"
-	intermissionmusic = "$MUSIC_INTER"
 }
 
 map D1WDE3M3 "Malebolge"
 {
-	titlepatch = "D1WDUV22"
+	titlepatch = "D1WDV20"
 	next = "D1WDE3M4"
-	secretnext = "D1WDE3M9"
+	secretnext = "D1WDE3M4"
 	sky1 = "SKY3"
-	par = 90
-	music = "$MUSIC_E3M3"
+	music = "D_D1WD21"
+	intermusic = "D_D1WDIN"
 	ExitPic = "D1WDINT3"
 	EnterPic = "D1WDINT3"
-	intermissionmusic = "$MUSIC_INTER"
 }
 
 map D1WDE3M4 "Torture Chambers"
 {
-	titlepatch = "D1WDUV23"
+	titlepatch = "D1WDV21"
 	next = "D1WDE3M5"
-	secretnext = "D1WDE3M9"
+	secretnext = "D1WDE3M5"
 	sky1 = "SKY3"
-	par = 150
-	music = "$MUSIC_E3M4"
+	music = "D_D1WD22"
+	intermusic = "D_D1WDIN"
 	ExitPic = "D1WDINT3"
 	EnterPic = "D1WDINT3"
-	intermissionmusic = "$MUSIC_INTER"
 }
 
 map D1WDE3M5 "Chapel of Scorn"
 {
-	titlepatch = "D1WDUV24"
+	titlepatch = "D1WDV22"
 	next = "D1WDE3M6"
-	secretnext = "D1WDE3M9"
+	secretnext = "D1WDE3M6"
 	sky1 = "SKY3"
-	par = 90
-	music = "$MUSIC_E3M5"
+	music = "D_D1WD23"
+	intermusic = "D_D1WDIN"
 	ExitPic = "D1WDINT3"
 	EnterPic = "D1WDINT3"
-	intermissionmusic = "$MUSIC_INTER"
 }
 
 map D1WDE3M6 "Depths"
 {
-	titlepatch = "D1WDUV25"
+	titlepatch = "D1WDV23"
 	next = "D1WDE3M7"
 	secretnext = "D1WDE3M9"
 	sky1 = "SKY3"
-	par = 90
-	music = "$MUSIC_E3M6"
+	music = "D_D1WD24"
+	intermusic = "D_D1WDIN"
 	ExitPic = "D1WDINT3"
 	EnterPic = "D1WDINT3"
-	intermissionmusic = "$MUSIC_INTER"
 }
 
 map D1WDE3M7 "Inner Sanctum"
 {
-	titlepatch = "D1WDUV26"
+	titlepatch = "D1WDV24"
 	next = "D1WDE3M8"
-	secretnext = "D1WDE3M9"
+	secretnext = "D1WDE3M8"
 	sky1 = "SKY3"
-	par = 165
-	music = "$MUSIC_E3M7"
+	music = "D_D1WD25"
+	intermusic = "D_D1WDIN"
 	ExitPic = "D1WDINT3"
 	EnterPic = "D1WDINT3"
-	intermissionmusic = "$MUSIC_INTER"
 }
 
 map D1WDE3M8 "Core"
 {
-	titlepatch = "D1WDUV27"
+	titlepatch = "D1WDV25"
 	next = "D1WDE4M1"
-	secretnext = "D1WDE3M9"
+	secretnext = "D1WDE4M1"
 	sky1 = "SKY3"
-	par = 30
-	nosoundclipping
-	e3m8special
-	specialaction_exitlevel
-	music = "$MUSIC_E3M8"
+	music = "D_D1WD26"
+	intermusic = "D_D1WDIN"
 	ExitPic = "D1WDINT3"
 	EnterPic = "D1WDINT3"
-	intermissionmusic = "$MUSIC_INTER"
+	nosoundclipping
+	spidermastermindspecial
+	specialaction_exitlevel
 }
 
 map D1WDE3M9 "Lake of Fire"
 {
-	titlepatch = "D1WDUV28"
+	titlepatch = "D1WDV26"
 	next = "D1WDE3M7"
 	secretnext = "D1WDE3M7"
 	sky1 = "SKY3"
-	par = 135
-	music = "$MUSIC_E3M9"
+	music = "D_D1WD27"
+	intermusic = "D_D1WDIN"
 	ExitPic = "D1WDINT3"
 	EnterPic = "D1WDINT3"
-	intermissionmusic = "$MUSIC_INTER"
 }
 
 map D1WDE4M1 "Into The Grave"
 {
-	titlepatch = "D1WDUV30"
-	next =  "D1WDE4M2"
-	secretnext =  "D1WDE4M9"
+	titlepatch = "D1WDV27"
+	next = "D1WDE4M2"
+	secretnext = "D1WDE4M2"
 	sky1 = "SKY4"
-	par = 165
-	music = "$MUSIC_E4M1"
-	ExitPic = "d1wdtn"
-	EnterPic = "d1wdtn"
-	intermissionmusic = "$MUSIC_INTER"
+	music = "D_D1WD22"
+	intermusic = "D_D1WDIN"
 }
 
 map D1WDE4M2 "Vile Affections"
 {
-	titlepatch = "D1WDUV31"
-	next =  "D1WDE4M3"
-	secretnext =  "D1WDE4M9"
+	titlepatch = "D1WDV28"
+	next = "D1WDE4M3"
+	secretnext = "D1WDE4M9"
 	sky1 = "SKY4"
-	par = 255
-	music = "$MUSIC_E4M2"
-	ExitPic = "d1wdtn"
-	EnterPic = "d1wdtn"
-	intermissionmusic = "$MUSIC_INTER"
+	music = "D_D1WD20"
+	intermusic = "D_D1WDIN"
 }
 
-map D1WDE4M3  "Earth, Blood and Fire"
+map D1WDE4M3 "Earth, Blood and Fire"
 {
-	titlepatch = "D1WDUV32"
-	next =  "D1WDE4M4"
-	secretnext =  "D1WDE4M9"
+	titlepatch = "D1WDV29"
+	next = "D1WDE4M4"
+	secretnext = "D1WDE4M4"
 	sky1 = "SKY4"
-	par = 135
-	music = "$MUSIC_E4M3"
-	ExitPic = "d1wdtn"
-	EnterPic = "d1wdtn"
-	intermissionmusic = "$MUSIC_INTER"
+	music = "D_D1WD21"
+	intermusic = "D_D1WDIN"
 }
 
 map D1WDE4M4 "Unclean Spirits"
 {
-	titlepatch = "D1WDUV33"
-	next =  "D1WDE4M5"
-	secretnext =  "D1WDE4M9"
+	titlepatch = "D1WDV30"
+	next = "D1WDE4M5"
+	secretnext = "D1WDE4M5"
 	sky1 = "SKY4"
-	par = 150
-	music = "$MUSIC_E4M4"
-	ExitPic = "d1wdtn"
-	EnterPic = "d1wdtn"
-	intermissionmusic = "$MUSIC_INTER"
+	music = "D_D1WD05"
+	intermusic = "D_D1WDIN"
 }
 
 map D1WDE4M5 "Doctrines of Devils"
 {
-	titlepatch = "D1WDUV34"
-	next =  "D1WDE4M6"
-	secretnext =  "D1WDE4M9"
+	titlepatch = "D1WDV31"
+	next = "D1WDE4M6"
+	secretnext = "D1WDE4M6"
 	sky1 = "SKY4"
-	par = 180
-	music = "$MUSIC_E4M5"
-	ExitPic = "d1wdtn"
-	EnterPic = "d1wdtn"
-	intermissionmusic = "$MUSIC_INTER"
+	music = "D_D1WD16"
+	intermusic = "D_D1WDIN"
 }
 
 map D1WDE4M6 "Molten Gods"
 {
-	titlepatch = "D1WDUV35"
-	next =  "D1WDE4M7"
-	secretnext =  "D1WDE4M9"
+	titlepatch = "D1WDV32"
+	next = "D1WDE4M7"
+	secretnext = "D1WDE4M7"
 	sky1 = "SKY4"
-	par = 390
-	e4m6special
+	music = "D_D1WD13"
+	intermusic = "D_D1WDIN"
+	cyberdemonspecial
 	specialaction_opendoor
-	music = "$MUSIC_E4M6"
-	ExitPic = "d1wdtn"
-	EnterPic = "d1wdtn"
-	intermissionmusic = "$MUSIC_INTER"
 }
 
 map D1WDE4M7 "Hand of the Heathen"
 {
-	titlepatch = "D1WDUV36"
-	next =  "D1WDE4M8"
-	secretnext =  "D1WDE4M9"
+	titlepatch = "D1WDV33"
+	next = "D1WDE4M8"
+	secretnext = "D1WDE4M8"
 	sky1 = "SKY4"
-	par = 135
-	music = "$MUSIC_E4M7"
-	ExitPic = "d1wdtn"
-	EnterPic = "d1wdtn"
-	intermissionmusic = "$MUSIC_INTER"
+	music = "D_D1WD15"
+	intermusic = "D_D1WDIN"
 }
 
 map D1WDE4M8 "An End to Darkness"
 {
-	titlepatch = "D1WDUV37"
+	titlepatch = "D1WDV34"
 	next = "VR"
-	secretnext =  "D1WDE4M9"
+	secretnext = "VR"
 	sky1 = "SKY4"
-	par = 360
+	music = "D_D1WD14"
+	intermusic = "D_D1WDIN"
 	nosoundclipping
-	e4m8special
+	spidermastermindspecial
 	specialaction_lowerfloor
-	music = "$MUSIC_E4M8"
-	ExitPic = "d1wdtn"
-	EnterPic = "d1wdtn"
-	intermissionmusic = "$MUSIC_INTER"
 }
 
 map D1WDE4M9 "Terror"
 {
-	titlepatch = "D1WDUV38"
-	next =  "D1WDE4M3"
-	secretnext =  "D1WDE4M3"
+	titlepatch = "D1WDV35"
+	next = "D1WDE4M3"
+	secretnext = "D1WDE4M3"
 	sky1 = "SKY4"
-	par = 180
-	music = "$MUSIC_E4M9"
-	ExitPic = "d1wdtn"
-	EnterPic = "d1wdtn"
-	intermissionmusic = "$MUSIC_INTER"
+	music = "D_D1WD09"
+	intermusic = "D_D1WDIN"
 }

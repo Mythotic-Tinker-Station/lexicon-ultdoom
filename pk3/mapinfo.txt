@@ -1,2 +1,3 @@
-include "mapinfo/2002ADO.txt" // 2002ad10.WADinclude "mapinfo/udtwid.txt" // DTWID.WAD + UDTWID.wad
+include "mapinfo/2002ADO.txt" // 2002ad10.WAD
+include "mapinfo/UDTWID.txt" // DTWID.WAD + UDTWID.wad
 include "mapinfo/dtwidle.txt" // DTWID-LE.wad
