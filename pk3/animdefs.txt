@@ -2,9 +2,26 @@
 texture ADO10105 range ADO10108 tics 8
 texture ADO10109 range ADO10112 tics 8
 texture ADO10113 range ADO10116 tics 8
-switch ADO10285 on pic ADO10290 tics 0
-switch ADO10286 on pic ADO10291 tics 0
-switch ADO10287 on pic ADO10292 tics 0
-switch ADO10288 on pic ADO10293 tics 0
-switch ADO10289 on pic ADO10294 tics 0
+switch ADO10291 on pic ADO10298 tics 0
+switch ADO10292 on pic ADO10299 tics 0
+switch ADO10293 on pic ADO10300 tics 0
+switch ADO10294 on pic ADO10301 tics 0
+switch ADO10295 on pic ADO10302 tics 0
+switch ADO10296 on pic ADO10303 tics 0
+switch ADO10297 on pic ADO10304 tics 0
+
+// Ultimate Doom the Way id Did
+switch D1WD0001 on pic D1WD0006 tics 0
+switch D1WD0002 on pic D1WD0007 tics 0
+switch D1WD0003 on pic D1WD0008 tics 0
+switch D1WD0004 on pic D1WD0009 tics 0
+switch D1WD0005 on pic D1WD0010 tics 0
+
+//Doom the Way id Did : Lost Episodes
+switch D1LE0001 on pic D1LE0006 tics 0
+switch D1LE0002 on pic D1LE0007 tics 0
+switch D1LE0003 on pic D1LE0008 tics 0
+switch D1LE0004 on pic D1LE0009 tics 0
+switch D1LE0005 on pic D1LE0010 tics 0
+
 
