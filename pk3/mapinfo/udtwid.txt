@@ -430,6 +430,6 @@ map D1WDE4M9 "Terror"
 	next = "D1WDE4M3"
 	secretnext = "D1WDE4M3"
 	sky1 = "SKY4"
-	music = "D_D1WD09"
+	music = "D_D1WD28"
 	intermusic = "D_D1WDIN"
 }
