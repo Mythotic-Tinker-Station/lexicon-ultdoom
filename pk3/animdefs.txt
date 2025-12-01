@@ -35,3 +35,7 @@ switch DBIM0003 on pic DBIM0008 tics 0
 switch DBIM0005 on pic DBIM0010 tics 0
 switch DBIM0006 on pic DBIM0011 tics 0
 
+// Base Ganymede: Complete
+switch BGCP0003 on pic BGCP0008 tics 0
+switch BGCP0007 on pic BGCP0012 tics 0
+
