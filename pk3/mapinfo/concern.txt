@@ -6,7 +6,7 @@ map CCRNE1M1 "Toxic Touchdown"
 	sky1 = "SKY1"
 	par = 30
 	music = "D_CCRN01"
-	intermissionmusic = "D_CCRNIN"
+	intermusic = "D_CCRNIN"
 }
 
 map CCRNE1M2 "Mutagenic Quarantine"
@@ -17,7 +17,7 @@ map CCRNE1M2 "Mutagenic Quarantine"
 	sky1 = "SKY1"
 	par = 75
 	music = "D_CCRN02"
-	intermissionmusic = "D_CCRNIN"
+	intermusic = "D_CCRNIN"
 }
 
 map CCRNE1M3 "The Cleanser"
@@ -28,7 +28,7 @@ map CCRNE1M3 "The Cleanser"
 	sky1 = "SKY1"
 	par = 120
 	music = "D_CCRN03"
-	intermissionmusic = "D_CCRNIN"
+	intermusic = "D_CCRNIN"
 }
 
 map CCRNE1M4 "Withering Gardens"
@@ -39,7 +39,7 @@ map CCRNE1M4 "Withering Gardens"
 	sky1 = "SKY1"
 	par = 90
 	music = "D_CCRN04"
-	intermissionmusic = "D_CCRNIN"
+	intermusic = "D_CCRNIN"
 }
 
 map CCRNE1M5  "Administration"
@@ -50,7 +50,7 @@ map CCRNE1M5  "Administration"
 	sky1 = "SKY1"
 	par = 165
 	music = "D_CCRN05"
-	intermissionmusic = "D_CCRNIN"
+	intermusic = "D_CCRNIN"
 }
 
 map CCRNE1M6 "Laboratory"
@@ -61,7 +61,7 @@ map CCRNE1M6 "Laboratory"
 	sky1 = "SKY1"
 	par = 180
 	music = "D_CCRN06"
-	intermissionmusic = "D_CCRNIN"
+	intermusic = "D_CCRNIN"
 }
 
 map CCRNE1M7 "Reactor"
@@ -72,7 +72,7 @@ map CCRNE1M7 "Reactor"
 	sky1 = "SKY1"
 	par = 180
 	music = "D_CCRN07"
-	intermissionmusic = "D_CCRNIN"
+	intermusic = "D_CCRNIN"
 }
 
 map CCRNE1M8 "Particle Accelerator"
@@ -86,7 +86,7 @@ map CCRNE1M8 "Particle Accelerator"
 	e1m8special
 	specialaction_lowerfloor
 	music = "$MUSIC_E1M8"
-	intermissionmusic = "D_CCRNIN"
+	intermusic = "D_CCRNIN"
 }
 
 map CCRNE1M9  "Atomsmasher"
@@ -97,7 +97,7 @@ map CCRNE1M9  "Atomsmasher"
 	sky1 = "SKY1"
 	par = 165
 	music = "D_CCRN08"
-	intermissionmusic = "D_CCRNIN"
+	intermusic = "D_CCRNIN"
 }
 
 // Registered/Retail Episode 2
@@ -110,7 +110,7 @@ map CCRNE2M1 "Collider Anomaly"
 	sky1 = "SKY2"
 	par = 90
 	music = "D_CCRN09"
-	intermissionmusic = "D_CCRNIN"
+	intermusic = "D_CCRNIN"
 }
 
 map CCRNE2M2 "Logistics"
@@ -121,7 +121,7 @@ map CCRNE2M2 "Logistics"
 	sky1 = "SKY2"
 	par = 90
 	music = "D_CCRN10"
-	intermissionmusic = "D_CCRNIN"
+	intermusic = "D_CCRNIN"
 }
 
 map CCRNE2M3 "Hydrophonic Facility"
@@ -132,7 +132,7 @@ map CCRNE2M3 "Hydrophonic Facility"
 	sky1 = "SKY2"
 	par = 90
 	music = "D_CCRN11"
-	intermissionmusic = "D_CCRNIN"
+	intermusic = "D_CCRNIN"
 }
 
 map CCRNE2M4 "Infirmary"
@@ -143,7 +143,7 @@ map CCRNE2M4 "Infirmary"
 	sky1 = "SKY2"
 	par = 120
 	music = "D_CCRN12"
-	intermissionmusic = "D_CCRNIN"
+	intermusic = "D_CCRNIN"
 }
 
 map CCRNE2M5 "Tactical Command"
@@ -154,7 +154,7 @@ map CCRNE2M5 "Tactical Command"
 	sky1 = "SKY2"
 	par = 90
 	music = "D_CCRN13"
-	intermissionmusic = "D_CCRNIN"
+	intermusic = "D_CCRNIN"
 }
 
 map CCRNE2M6 "Haunted Cellars"
@@ -165,7 +165,7 @@ map CCRNE2M6 "Haunted Cellars"
 	sky1 = "SKY2"
 	par = 360
 	music = "$MUSIC_E2M6"
-	intermissionmusic = "D_CCRNIN"
+	intermusic = "D_CCRNIN"
 }
 
 map CCRNE2M7 "The Core"
@@ -176,7 +176,7 @@ map CCRNE2M7 "The Core"
 	sky1 = "SKY2"
 	par = 240
 	music = "D_CCRN14"
-	intermissionmusic = "D_CCRNIN"
+	intermusic = "D_CCRNIN"
 }
 
 map CCRNE2M8 "Gates To Hell"
@@ -190,7 +190,7 @@ map CCRNE2M8 "Gates To Hell"
 	e2m8special
 	specialaction_exitlevel
 	music = "D_CCRN15"
-	intermissionmusic = "D_CCRNIN"
+	intermusic = "D_CCRNIN"
 }
 
 map CCRNE2M9 "Blackout"
@@ -201,7 +201,7 @@ map CCRNE2M9 "Blackout"
 	sky1 = "SKY2"
 	par = 170
 	music = "D_CCRN16"
-	intermissionmusic = "D_CCRNIN"
+	intermusic = "D_CCRNIN"
 }
 
 // Registered/Retail Episode 3
@@ -214,7 +214,7 @@ map CCRNE3M1 "Passover"
 	sky1 = "SKY3"
 	par = 90
 	music = "D_CCRN17"
-	intermissionmusic = "D_CCRNIN"
+	intermusic = "D_CCRNIN"
 }
 
 map CCRNE3M2 "Fire Temple"
@@ -225,7 +225,7 @@ map CCRNE3M2 "Fire Temple"
 	sky1 = "SKY3"
 	par = 45
 	music = "D_CCRN18"
-	intermissionmusic = "D_CCRNIN"
+	intermusic = "D_CCRNIN"
 }
 
 map CCRNE3M3 "Infernal Catacombs"
@@ -236,7 +236,7 @@ map CCRNE3M3 "Infernal Catacombs"
 	sky1 = "SKY3"
 	par = 90
 	music = "D_CCRN19"
-	intermissionmusic = "D_CCRNIN"
+	intermusic = "D_CCRNIN"
 }
 
 map CCRNE3M4 "Demonizer"
@@ -247,7 +247,7 @@ map CCRNE3M4 "Demonizer"
 	sky1 = "SKY3"
 	par = 150
 	music = "D_CCRN20"
-	intermissionmusic = "D_CCRNIN"
+	intermusic = "D_CCRNIN"
 }
 
 map CCRNE3M5 "Complex Trauma"
@@ -258,7 +258,7 @@ map CCRNE3M5 "Complex Trauma"
 	sky1 = "SKY3"
 	par = 90
 	music = "D_CCRN21"
-	intermissionmusic = "D_CCRNIN"
+	intermusic = "D_CCRNIN"
 }
 
 map CCRNE3M6 "Devils Crucible"
@@ -269,7 +269,7 @@ map CCRNE3M6 "Devils Crucible"
 	sky1 = "SKY3"
 	par = 90
 	music = "D_CCRN22"
-	intermissionmusic = "D_CCRNIN"
+	intermusic = "D_CCRNIN"
 }
 
 map CCRNE3M7 "Back To System Central"
@@ -280,7 +280,7 @@ map CCRNE3M7 "Back To System Central"
 	sky1 = "SKY3"
 	par = 165
 	music = "D_CCRN23"
-	intermissionmusic = "D_CCRNIN"
+	intermusic = "D_CCRNIN"
 }
 
 map CCRNE3M8 "Fortress Of Tyrants"
@@ -294,7 +294,7 @@ map CCRNE3M8 "Fortress Of Tyrants"
 	e3m8special
 	specialaction_exitlevel
 	music = "D_CCRN24"
-	intermissionmusic = "D_CCRNIN"
+	intermusic = "D_CCRNIN"
 }
 
 map CCRNE3M9 "Cyberslayer"
@@ -305,5 +305,5 @@ map CCRNE3M9 "Cyberslayer"
 	sky1 = "SKY3"
 	par = 135
 	music = "D_CCRN25"
-	intermissionmusic = "D_CCRNIN"
+	intermusic = "D_CCRNIN"
 }
