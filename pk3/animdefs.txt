@@ -24,4 +24,9 @@ switch D1LE0003 on pic D1LE0008 tics 0
 switch D1LE0004 on pic D1LE0009 tics 0
 switch D1LE0005 on pic D1LE0010 tics 0
 
+//ConC.E.R.Ned
+texture CCRN0012 range CCRN0015 tics 8
+texture CCRN0016 range CCRN0019 tics 8
+texture CCRN0020 range CCRN0023 tics 8
+
 
