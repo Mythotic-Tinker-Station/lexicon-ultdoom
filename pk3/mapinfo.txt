@@ -1,4 +1,4 @@
 include "mapinfo/2002ADO.txt" // 2002ad10.WAD
 include "mapinfo/UDTWID.txt" // DTWID.WAD + UDTWID.wad
-include "mapinfo/dtwidle.txt" // dtwid-le_e2m9,e3m8,e4m2,e4m5coopfix.wad
-include "mapinfo/concern.txt" // concern.wad
+include "mapinfo/DTWIDLE.txt" // dtwid-le_e2m9,e3m8,e4m2,e4m5coopfix.wad
+include "mapinfo/CONCERNED.txt" // concern.wad

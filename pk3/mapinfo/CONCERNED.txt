@@ -13,6 +13,8 @@ map CCRNE1M1 "Toxic Touchdown"
 	secretnext = "CCRNE1M9"
 	sky1 = "SKY1"
 	music = "D_CCRN01"
+	ExitPic = "CCRNINT1"
+	EnterPic = "CCRNINT1"
 	intermusic = "D_CCRNIN"
 }
 
@@ -23,6 +25,8 @@ map CCRNE1M2 "Mutagenic Quarantine"
 	secretnext = "CCRNE1M9"
 	sky1 = "SKY1"
 	music = "D_CCRN02"
+	ExitPic = "CCRNINT1"
+	EnterPic = "CCRNINT1"
 	intermusic = "D_CCRNIN"
 }
 
@@ -33,6 +37,8 @@ map CCRNE1M3 "The Cleanser"
 	secretnext = "CCRNE1M9"
 	sky1 = "SKY1"
 	music = "D_CCRN03"
+	ExitPic = "CCRNINT1"
+	EnterPic = "CCRNINT1"
 	intermusic = "D_CCRNIN"
 }
 
@@ -43,6 +49,8 @@ map CCRNE1M4 "Withering Gardens"
 	secretnext = "CCRNE1M9"
 	sky1 = "SKY1"
 	music = "D_CCRN04"
+	ExitPic = "CCRNINT1"
+	EnterPic = "CCRNINT1"
 	intermusic = "D_CCRNIN"
 }
 
@@ -53,6 +61,8 @@ map CCRNE1M5  "Administration"
 	secretnext = "CCRNE1M9"
 	sky1 = "SKY1"
 	music = "D_CCRN05"
+	ExitPic = "CCRNINT1"
+	EnterPic = "CCRNINT1"
 	intermusic = "D_CCRNIN"
 }
 
@@ -63,6 +73,8 @@ map CCRNE1M6 "Laboratory"
 	secretnext = "CCRNE1M9"
 	sky1 = "SKY1"
 	music = "D_CCRN06"
+	ExitPic = "CCRNINT1"
+	EnterPic = "CCRNINT1"
 	intermusic = "D_CCRNIN"
 }
 
@@ -73,6 +85,8 @@ map CCRNE1M7 "Reactor"
 	secretnext = "CCRNE1M9"
 	sky1 = "SKY1"
 	music = "D_CCRN07"
+	ExitPic = "CCRNINT1"
+	EnterPic = "CCRNINT1"
 	intermusic = "D_CCRNIN"
 }
 
@@ -85,6 +99,8 @@ map CCRNE1M8 "Particle Accelerator"
 	nosoundclipping
 	baronspecial
 	specialaction_lowerfloor
+	ExitPic = "CCRNINT1"
+	EnterPic = "CCRNINT1"
 	music = "$MUSIC_E1M8"
 	intermusic = "D_CCRNIN"
 }
@@ -96,6 +112,8 @@ map CCRNE1M9  "Atomsmasher"
 	secretnext = "CCRNE1M4"
 	sky1 = "SKY1"
 	music = "D_CCRN08"
+	ExitPic = "CCRNINT1"
+	EnterPic = "CCRNINT1"
 	intermusic = "D_CCRNIN"
 }
 
@@ -108,6 +126,8 @@ map CCRNE2M1 "Collider Anomaly"
 	secretnext = "CCRNE2M9"
 	sky1 = "SKY2"
 	music = "D_CCRN09"
+	ExitPic = "CCRNINT2"
+	EnterPic = "CCRNINT2"
 	intermusic = "D_CCRNIN"
 }
 
@@ -118,6 +138,8 @@ map CCRNE2M2 "Logistics"
 	secretnext = "CCRNE2M9"
 	sky1 = "SKY2"
 	music = "D_CCRN10"
+	ExitPic = "CCRNINT2"
+	EnterPic = "CCRNINT2"
 	intermusic = "D_CCRNIN"
 }
 
@@ -128,6 +150,8 @@ map CCRNE2M3 "Hydrophonic Facility"
 	secretnext = "CCRNE2M9"
 	sky1 = "SKY2"
 	music = "D_CCRN11"
+	ExitPic = "CCRNINT2"
+	EnterPic = "CCRNINT2"
 	intermusic = "D_CCRNIN"
 }
 
@@ -138,6 +162,8 @@ map CCRNE2M4 "Infirmary"
 	secretnext = "CCRNE2M9"
 	sky1 = "SKY2"
 	music = "D_CCRN12"
+	ExitPic = "CCRNINT2"
+	EnterPic = "CCRNINT2"
 	intermusic = "D_CCRNIN"
 }
 
@@ -148,6 +174,8 @@ map CCRNE2M5 "Tactical Command"
 	secretnext = "CCRNE2M9"
 	sky1 = "SKY2"
 	music = "D_CCRN13"
+	ExitPic = "CCRNINT2"
+	EnterPic = "CCRNINT2"
 	intermusic = "D_CCRNIN"
 }
 
@@ -158,6 +186,8 @@ map CCRNE2M6 "Haunted Cellars"
 	secretnext = "CCRNE2M9"
 	sky1 = "SKY2"
 	music = "$MUSIC_E2M6"
+	ExitPic = "CCRNINT2"
+	EnterPic = "CCRNINT2"
 	intermusic = "D_CCRNIN"
 }
 
@@ -168,6 +198,8 @@ map CCRNE2M7 "The Core"
 	secretnext = "CCRNE2M9"
 	sky1 = "SKY2"
 	music = "D_CCRN14"
+	ExitPic = "CCRNINT2"
+	EnterPic = "CCRNINT2"
 	intermusic = "D_CCRNIN"
 }
 
@@ -181,6 +213,8 @@ map CCRNE2M8 "Gates To Hell"
 	cyberdemonspecial
 	specialaction_exitlevel
 	music = "D_CCRN15"
+	ExitPic = "CCRNINT2"
+	EnterPic = "CCRNINT2"
 	intermusic = "D_CCRNIN"
 }
 
@@ -191,6 +225,8 @@ map CCRNE2M9 "Blackout"
 	secretnext = "CCRNE2M6"
 	sky1 = "SKY2"
 	music = "D_CCRN16"
+	ExitPic = "CCRNINT2"
+	EnterPic = "CCRNINT2"
 	intermusic = "D_CCRNIN"
 }
 
@@ -203,6 +239,8 @@ map CCRNE3M1 "Passover"
 	secretnext = "CCRNE3M9"
 	sky1 = "SKY3"
 	music = "D_CCRN17"
+	ExitPic = "CCRNINT3"
+	EnterPic = "CCRNINT3"
 	intermusic = "D_CCRNIN"
 }
 
@@ -213,6 +251,8 @@ map CCRNE3M2 "Fire Temple"
 	secretnext = "CCRNE3M9"
 	sky1 = "SKY3"
 	music = "D_CCRN18"
+	ExitPic = "CCRNINT3"
+	EnterPic = "CCRNINT3"
 	intermusic = "D_CCRNIN"
 }
 
@@ -223,6 +263,8 @@ map CCRNE3M3 "Infernal Catacombs"
 	secretnext = "CCRNE3M9"
 	sky1 = "SKY3"
 	music = "D_CCRN19"
+	ExitPic = "CCRNINT3"
+	EnterPic = "CCRNINT3"
 	intermusic = "D_CCRNIN"
 }
 
@@ -233,6 +275,8 @@ map CCRNE3M4 "Demonizer"
 	secretnext = "CCRNE3M9"
 	sky1 = "SKY3"
 	music = "D_CCRN20"
+	ExitPic = "CCRNINT3"
+	EnterPic = "CCRNINT3"
 	intermusic = "D_CCRNIN"
 }
 
@@ -243,6 +287,8 @@ map CCRNE3M5 "Complex Trauma"
 	secretnext = "CCRNE3M9"
 	sky1 = "SKY3"
 	music = "D_CCRN21"
+	ExitPic = "CCRNINT3"
+	EnterPic = "CCRNINT3"
 	intermusic = "D_CCRNIN"
 }
 
@@ -253,6 +299,8 @@ map CCRNE3M6 "Devils Crucible"
 	secretnext = "CCRNE3M9"
 	sky1 = "SKY3"
 	music = "D_CCRN22"
+	ExitPic = "CCRNINT3"
+	EnterPic = "CCRNINT3"
 	intermusic = "D_CCRNIN"
 }
 
@@ -263,6 +311,8 @@ map CCRNE3M7 "Back To System Central"
 	secretnext = "CCRNE3M9"
 	sky1 = "SKY3"
 	music = "D_CCRN23"
+	ExitPic = "CCRNINT3"
+	EnterPic = "CCRNINT3"
 	intermusic = "D_CCRNIN"
 }
 
@@ -276,6 +326,8 @@ map CCRNE3M8 "Fortress Of Tyrants"
 	spidermastermindspecial
 	specialaction_exitlevel
 	music = "D_CCRN24"
+	ExitPic = "CCRNINT3"
+	EnterPic = "CCRNINT3"
 	intermusic = "D_CCRNIN"
 }
 
@@ -286,5 +338,7 @@ map CCRNE3M9 "Cyberslayer"
 	secretnext = "CCRNE3M7"
 	sky1 = "SKY3"
 	music = "D_CCRN25"
+	ExitPic = "CCRNINT3"
+	EnterPic = "CCRNINT3"
 	intermusic = "D_CCRNIN"
 }
