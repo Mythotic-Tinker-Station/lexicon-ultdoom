@@ -403,7 +403,7 @@ map ADO1E4M8 "Impossible mission"
 	EnterPic = "ADO1INT4"
 	intermusic = "D_ADO1IN"
 	nosoundclipping
-	e4m8special
+	spidermastermindspecial
 	specialaction_lowerfloor
 }
 
