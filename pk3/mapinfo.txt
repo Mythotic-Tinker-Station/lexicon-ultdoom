@@ -4,3 +4,4 @@ include "mapinfo/DTWIDLE.txt" // dtwid-le_e2m9,e3m8,e4m2,e4m5coopfix.wad
 include "mapinfo/CONCERNED.txt" // concern.wad
 include "mapinfo/DOUBLEIMPACT.txt" // dbimpact.wad
 include "mapinfo/GANYMEDE.txt" // bgcomp_e1m5,e2m3coopfix.wad
+include "mapinfo/SWITCHEROOM.txt" // swtchrm.wad
