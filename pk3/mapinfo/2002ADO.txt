@@ -8,7 +8,7 @@ defaultmap
 
 map ADO1E1M1 "The Entry"
 {
-	sky1 = "sky1"
+	sky1 = "DSKY1"
 	music = "D_ADO101"
 	next = "ADO1E1M2"
 	titlepatch = "ADO1V00"
@@ -19,7 +19,7 @@ map ADO1E1M1 "The Entry"
 
 map ADO1E1M2 "Helicopter bay"
 {
-	sky1 = "sky1"
+	sky1 = "DSKY1"
 	music = "D_ADO102"
 	next = "ADO1E1M3"
 	titlepatch = "ADO1V01"
@@ -30,7 +30,7 @@ map ADO1E1M2 "Helicopter bay"
 
 map ADO1E1M3 "The doomed lab"
 {
-	sky1 = "sky1"
+	sky1 = "DSKY1"
 	music = "D_ADO103"
 	next = "ADO1E1M4"
 	secretnext = "ADO1E1M9"
@@ -42,7 +42,7 @@ map ADO1E1M3 "The doomed lab"
 
 map ADO1E1M4 "Substation 537A"
 {
-	sky1 = "sky1"
+	sky1 = "DSKY1"
 	music = "D_ADO104"
 	next = "ADO1E1M5"
 	titlepatch = "ADO1V03"
@@ -53,7 +53,7 @@ map ADO1E1M4 "Substation 537A"
 
 map ADO1E1M5 "Combat station"
 {
-	sky1 = "sky1"
+	sky1 = "DSKY1"
 	music = "D_ADO105"
 	next = "ADO1E1M6"
 	titlepatch = "ADO1V04"
@@ -64,7 +64,7 @@ map ADO1E1M5 "Combat station"
 
 map ADO1E1M6 "Toxic treatment plant"
 {
-	sky1 = "sky1"
+	sky1 = "DSKY1"
 	music = "D_ADO106"
 	next = "ADO1E1M7"
 	titlepatch = "ADO1V05"
@@ -75,7 +75,7 @@ map ADO1E1M6 "Toxic treatment plant"
 
 map ADO1E1M7 "Service base"
 {
-	sky1 = "sky1"
+	sky1 = "DSKY1"
 	music = "D_ADO107"
 	next = "ADO1E1M8"
 	titlepatch = "ADO1V06"
@@ -86,7 +86,7 @@ map ADO1E1M7 "Service base"
 
 map ADO1E1M8 "Paradox"
 {
-	sky1 = "sky1"
+	sky1 = "DSKY1"
 	music = "D_ADO108"
 	next = "ADO1E2M1"
 	titlepatch = "ADO1V07"
@@ -99,7 +99,7 @@ map ADO1E1M8 "Paradox"
 
 map ADO1E1M9 "Lugano Base ZRX"
 {
-	sky1 = "sky1"
+	sky1 = "DSKY1"
 	music = "D_ADO109"
 	next = "ADO1E2M4"
 	titlepatch = "ADO1V08"
@@ -110,7 +110,7 @@ map ADO1E1M9 "Lugano Base ZRX"
 
 map ADO1E2M1 "Station Alpha"
 {
-	sky1 = "sky2"
+	sky1 = "DSKY2"
 	music = "D_ADO110"
 	next = "ADO1E2M2"
 	titlepatch = "ADO1V09"
@@ -121,7 +121,7 @@ map ADO1E2M1 "Station Alpha"
 
 map ADO1E2M2 "Station Beta"
 {
-	sky1 = "sky2"
+	sky1 = "DSKY2"
 	music = "D_ADO111"
 	next = "ADO1E2M2"
 	titlepatch = "ADO1V10"
@@ -132,7 +132,7 @@ map ADO1E2M2 "Station Beta"
 
 map ADO1E2M3 "The lost labs"
 {
-	sky1 = "sky2"
+	sky1 = "DSKY2"
 	music = "D_ADO112"
 	next = "ADO1E2M3"
 	titlepatch = "ADO1V11"
@@ -143,7 +143,7 @@ map ADO1E2M3 "The lost labs"
 
 map ADO1E2M4 "Shotgun blues"
 {
-	sky1 = "sky2"
+	sky1 = "DSKY2"
 	music = "D_ADO113"
 	next = "ADO1E2M5"
 	secretnext = "ADO1E5M1"
@@ -155,7 +155,7 @@ map ADO1E2M4 "Shotgun blues"
 
 map ADO1E2M5 "Fortress of Fatalities"
 {
-	sky1 = "sky2"
+	sky1 = "DSKY2"
 	music = "D_ADO114"
 	next = "ADO1E2M6"
 	secretnext = "ADO1E2M9"
@@ -167,7 +167,7 @@ map ADO1E2M5 "Fortress of Fatalities"
 
 map ADO1E2M6 "Between demons and insects"
 {
-	Sky1 = "sky2"
+	sky1 = "DSKY2"
 	music = "D_ADO115"
 	next = "ADO1E2M7"
 	titlepatch = "ADO1V14"
@@ -178,7 +178,7 @@ map ADO1E2M6 "Between demons and insects"
 
 map ADO1E2M7 "Puzzles to solve"
 {
-	sky1 = "sky2"
+	sky1 = "DSKY2"
 	music = "D_ADO116"
 	next = "ADO1E2M8"
 	titlepatch = "ADO1V15"
@@ -189,7 +189,7 @@ map ADO1E2M7 "Puzzles to solve"
 
 map ADO1E2M8 "Total disturbance"
 {
-	sky1 = "sky2"
+	sky1 = "DSKY2"
 	music = "D_ADO117"
 	next = "ADO1E3M1"
 	titlepatch = "ADO1V16"
@@ -203,7 +203,7 @@ map ADO1E2M8 "Total disturbance"
 
 map ADO1E2M9 "Dungeon of Hate"
 {
-	sky1 = "sky2"
+	sky1 = "DSKY2"
 	music = "D_ADO118"
 	next = "ADO1E2M6"
 	titlepatch = "ADO1V17"
@@ -214,7 +214,7 @@ map ADO1E2M9 "Dungeon of Hate"
 
 map ADO1E3M1 "Gatehouse"
 {
-	sky1 = "sky3"
+	sky1 = "DSKY3"
 	music = "D_ADO119"
 	next = "ADO1E3M2"
 	titlepatch = "ADO1V18"
@@ -225,7 +225,7 @@ map ADO1E3M1 "Gatehouse"
 
 map ADO1E3M2 "Caves of Bosnia"
 {
-	sky1 = "sky3"
+	sky1 = "DSKY3"
 	music = "D_ADO120"
 	next = "ADO1E3M3"
 	titlepatch = "ADO1V19"
@@ -236,7 +236,7 @@ map ADO1E3M2 "Caves of Bosnia"
 
 map ADO1E3M3 "Stronghold of damnation"
 {
-	sky1 = "sky3"
+	sky1 = "DSKY3"
 	music = "D_ADO121"
 	next = "ADO1E3M4"
 	titlepatch = "ADO1V20"
@@ -247,7 +247,7 @@ map ADO1E3M3 "Stronghold of damnation"
 
 map ADO1E3M4 "Halls of ebola"
 {
-	sky1 = "sky3"
+	sky1 = "DSKY3"
 	music = "D_ADO122"
 	next = "ADO1E3M5"
 	titlepatch = "ADO1V21"
@@ -258,7 +258,7 @@ map ADO1E3M4 "Halls of ebola"
 
 map ADO1E3M5 "Blood and Guts"
 {
-	sky1 = "sky3"
+	sky1 = "DSKY3"
 	music = "D_ADO123"
 	next = "ADO1E3M6"
 	secretnext = "ADO1E5M2"
@@ -270,7 +270,7 @@ map ADO1E3M5 "Blood and Guts"
 
 map ADO1E3M6 "Obituary written"
 {
-	sky1 = "sky3"
+	sky1 = "DSKY3"
 	music = "D_ADO124"
 	next = "ADO1E3M7"
 	secretnext = "ADO1E3M9"
@@ -282,7 +282,7 @@ map ADO1E3M6 "Obituary written"
 
 map ADO1E3M7 "System Central"
 {
-	sky1 = "sky3"
+	sky1 = "DSKY3"
 	music = "D_ADO125"
 	next = "ADO1E3M8"
 	titlepatch = "ADO1V24"
@@ -293,7 +293,7 @@ map ADO1E3M7 "System Central"
 
 map ADO1E3M8 "Spider temple"
 {
-	sky1 = "sky3"
+	sky1 = "DSKY3"
 	music = "D_ADO126"
 	next = "ADO1E4M1"
 	titlepatch = "ADO1V25"
@@ -306,7 +306,7 @@ map ADO1E3M8 "Spider temple"
 
 map ADO1E3M9 "The lost chord"
 {
-	sky1 = "sky3"
+	sky1 = "DSKY3"
 	music = "D_ADO127"
 	next = "ADO1E3M7"
 	titlepatch = "ADO1V26"
@@ -317,7 +317,7 @@ map ADO1E3M9 "The lost chord"
 
 map ADO1E4M1 "Unity"
 {
-	sky1 = "sky4"
+	sky1 = "DSKY4"
 	music = "D_ADO128"
 	next = "ADO1E4M2"
 	titlepatch = "ADO1V27"
@@ -328,7 +328,7 @@ map ADO1E4M1 "Unity"
 
 map ADO1E4M2 "Back to Base X"
 {
-	sky1 = "sky4"
+	sky1 = "DSKY4"
 	music = "D_ADO129"
 	next = "ADO1E4M3"
 	secretnext = "ADO1E4M9"
@@ -340,7 +340,7 @@ map ADO1E4M2 "Back to Base X"
 
 map ADO1E4M3 "Hell Unleashed"
 {
-	sky1 = "sky4"
+	sky1 = "DSKY4"
 	music = "D_ADO130"
 	next = "ADO1E4M4"
 	titlepatch = "ADO1V29"
@@ -351,7 +351,7 @@ map ADO1E4M3 "Hell Unleashed"
 
 map ADO1E4M4 "Disreputable stronghold"
 {
-	sky1 = "sky4"
+	sky1 = "DSKY4"
 	music = "D_ADO131"
 	next = "ADO1E4M5"
 	titlepatch = "ADO1V30"
@@ -362,7 +362,7 @@ map ADO1E4M4 "Disreputable stronghold"
 
 map ADO1E4M5 "Indomitable haunt"
 {
-	sky1 = "sky4"
+	sky1 = "DSKY4"
 	music = "D_ADO132"
 	next = "ADO1E4M6"
 	titlepatch = "ADO1V31"
@@ -373,7 +373,7 @@ map ADO1E4M5 "Indomitable haunt"
 
 map ADO1E4M6 "Dementia"
 {
-	sky1 = "sky4"
+	sky1 = "DSKY4"
 	music = "D_ADO133"
 	next = "ADO1E4M7"
 	titlepatch = "ADO1V32"
@@ -384,7 +384,7 @@ map ADO1E4M6 "Dementia"
 
 map ADO1E4M7 "Odious grounds"
 {
-	sky1 = "sky4"
+	sky1 = "DSKY4"
 	music = "D_ADO134"
 	next = "ADO1E4M8"
 	titlepatch = "ADO1V33"
@@ -395,7 +395,7 @@ map ADO1E4M7 "Odious grounds"
 
 map ADO1E4M8 "Impossible mission"
 {
-	sky1 = "sky4"
+	sky1 = "DSKY4"
 	music = "D_ADO135"
 	next = "VR"
 	titlepatch = "ADO1V34"
@@ -409,7 +409,7 @@ map ADO1E4M8 "Impossible mission"
 
 map ADO1E4M9 "De-moon side"
 {
-	sky1 = "sky4"
+	sky1 = "DSKY4"
 	music = "D_ADO136"
 	next = "ADO1E4M3"
 	titlepatch = "ADO1V35"
@@ -420,7 +420,7 @@ map ADO1E4M9 "De-moon side"
 
 map ADO1E5M1 "Surfing the mighty green"
 {
-	sky1 = "sky4"
+	sky1 = "DSKY4"
 	music = "D_ADO137"
 	next = "ADO1E2M5"
 	ExitPic = "ADO1INT4"
@@ -430,7 +430,7 @@ map ADO1E5M1 "Surfing the mighty green"
 
 map ADO1E5M2 "Secret Wolfenstein Level"
 {
-	sky1 = "sky4"
+	sky1 = "DSKY4"
 	music = "D_ADO138"
 	next = "ADO1E3M6"
 	ExitPic = "ADO1INT4"
