@@ -8,3 +8,4 @@ include "mapinfo/SWITCHEROOM.txt" // swtchrm.wad
 include "mapinfo/DOOMDAMNATION.txt" // DDAMN10.wad
 include "mapinfo/LOSTEPISODES.txt" // JPTR_V40.WAD
 include "mapinfo/WD13.txt" // WD13.WAD
+include "mapinfo/NOSTALGIAZERO.txt" // nostzero.wad

@@ -39,3 +39,11 @@ switch DBIM0006 on pic DBIM0011 tics 0
 switch BGCP0003 on pic BGCP0008 tics 0
 switch BGCP0007 on pic BGCP0012 tics 0
 
+// Nostalgia Zero
+texture NSGZ0048 range NSGZ0049 tics 8
+flat NSGZ0009 range NSGZ0012 tics 8
+switch NSGZ0035 on pic NSGZ0040 tics 0
+switch NSGZ0038 on pic NSGZ0043 tics 0
+switch NSGZ0039 on pic NSGZ0044 tics 0
+switch NSGZ0050 on pic NSGZ0051 tics 0
+
