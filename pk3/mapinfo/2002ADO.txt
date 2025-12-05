@@ -94,7 +94,7 @@ map ADO1E1M8 "Paradox"
 	EnterPic = "ADO1INT1"
 	intermusic = "D_ADO1IN"
 	baronspecial
-	specialaction_lowerfloor
+	specialaction_exitlevel //specialaction_lowerfloor
 }
 
 map ADO1E1M9 "Lugano Base ZRX"

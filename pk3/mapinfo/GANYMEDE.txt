@@ -78,7 +78,7 @@ map BGCPE1M8 "Base Ganymede Map 8"
 	music = "D_BGCP08"
 	nosoundclipping
 	baronspecial
-	specialaction_lowerfloor
+	specialaction_exitlevel //specialaction_lowerfloor
 }
 
 map BGCPE1M9 "Base Ganymede Secret Map 1"

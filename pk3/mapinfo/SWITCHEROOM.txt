@@ -78,7 +78,7 @@ map SWR1E1M8 "Gomorrah"
 	music = "$MUSIC_E1M8"
 	nosoundclipping
 	baronspecial
-	specialaction_lowerfloor
+	specialaction_exitlevel //specialaction_lowerfloor
 }
 
 map SWR1E1M9 "Abandoned Outpost"

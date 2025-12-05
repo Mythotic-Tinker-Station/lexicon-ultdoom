@@ -73,7 +73,7 @@ map E1M8 lookup "HUSTR_E1M8"
 	music = "$MUSIC_E1M8"
 	nosoundclipping
 	baronspecial
-	specialaction_lowerfloor
+	specialaction_exitlevel //specialaction_lowerfloor
 }
 
 map E1M9 lookup "HUSTR_E1M9"

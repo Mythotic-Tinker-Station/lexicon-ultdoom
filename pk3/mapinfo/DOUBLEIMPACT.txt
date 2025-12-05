@@ -94,7 +94,7 @@ map DBIME1M8 "Launch Bay"
 	EnterPic = "DBIMINT"
 	nosoundclipping
 	baronspecial
-	specialaction_lowerfloor
+	specialaction_exitlevel //specialaction_lowerfloor
 }
 
 map DBIME1M9 "Operations"

@@ -102,7 +102,7 @@ map NSGZE1M8 "Valley of the Dead"
 	EnterPic = "NSGZINT"
 	nosoundclipping
 	baronspecial
-	specialaction_lowerfloor
+	specialaction_exitlevel //specialaction_lowerfloor
 }
 
 map NSGZE1M9 "Jump in the Fire"

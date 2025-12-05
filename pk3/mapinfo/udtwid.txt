@@ -102,7 +102,7 @@ map D1WDE1M8 "Transport Facility"
 	EnterPic = "D1WDINT1"
 	nosoundclipping
 	baronspecial
-	specialaction_lowerfloor
+	specialaction_exitlevel //specialaction_lowerfloor
 }
 
 map D1WDE1M9 "Excavation Site"

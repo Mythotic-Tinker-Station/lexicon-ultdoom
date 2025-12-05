@@ -78,7 +78,7 @@ map WD13E1M8 "Wonderful Doom Map 8"
 	music = "$MUSIC_E1M8"
 	nosoundclipping
 	baronspecial
-	specialaction_lowerfloor
+	specialaction_exitlevel //specialaction_lowerfloor
 }
 
 map WD13E1M9 "Wonderful Doom Secret Map 1"

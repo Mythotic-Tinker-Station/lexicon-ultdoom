@@ -78,7 +78,7 @@ map JPTRE1M8 "Callisto Consecration"
 	music = "$MUSIC_E1M8"
 	nosoundclipping
 	baronspecial
-	specialaction_lowerfloor
+	specialaction_exitlevel //specialaction_lowerfloor
 }
 
 map JPTRE2M1 "Io Anomaly"

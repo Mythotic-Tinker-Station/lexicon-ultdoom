@@ -98,7 +98,7 @@ map CCRNE1M8 "Particle Accelerator"
 	sky1 = "DSKY1"
 	nosoundclipping
 	baronspecial
-	specialaction_lowerfloor
+	specialaction_exitlevel //specialaction_lowerfloor
 	ExitPic = "CCRNINT1"
 	EnterPic = "CCRNINT1"
 	music = "$MUSIC_E1M8"

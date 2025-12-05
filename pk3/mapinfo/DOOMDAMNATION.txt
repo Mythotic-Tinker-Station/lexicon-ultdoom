@@ -86,7 +86,7 @@ map DDAME1M8 "The Guardians"
 	intermusic = "D_DDAMIN"
 	nosoundclipping
 	baronspecial
-	specialaction_lowerfloor
+	specialaction_exitlevel //specialaction_lowerfloor
 }
 
 map DDAME1M9 "Phobos Sewers"
