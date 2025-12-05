@@ -1,33 +1,33 @@
 Texture "ADO10063", 128, 128
 {
-	Patch "ADO10304", 0, 0
-	Patch "ADO10304", 64, 0
+	Patch "ADO10317", 0, 0
+	Patch "ADO10317", 64, 0
 }
 Texture "ADO10064", 64, 128
 {
-	Patch "ADO10305", 0, 0
-	Patch "ADO10305", 0, 64
+	Patch "ADO10318", 0, 0
+	Patch "ADO10318", 0, 64
 }
 Texture "ADO10076", 64, 128
 {
-	Patch "ADO10314", 0, 32
-	Patch "ADO10314", 0, -64
+	Patch "ADO10327", 0, 32
+	Patch "ADO10327", 0, -64
 }
 Texture "ADO10077", 64, 128
 {
-	Patch "ADO10317", 0, 0
-	Patch "ADO10317", 0, 44
-	Patch "ADO10317", 0, 88
+	Patch "ADO10330", 0, 0
+	Patch "ADO10330", 0, 44
+	Patch "ADO10330", 0, 88
 }
 Texture "ADO10091", 128, 128
 {
 	Patch "ADO10090", 0, 0
-	Patch "ADO10339", 2, 3
+	Patch "ADO10352", 2, 3
 }
 Texture "ADO10092", 128, 128
 {
 	Patch "ADO10090", 0, 0
-	Patch "ADO10340", 0, 0
+	Patch "ADO10353", 0, 0
 }
 Texture "ADO10098", 128, 128
 {
@@ -37,33 +37,36 @@ Texture "ADO10098", 128, 128
 Texture "ADO10101", 128, 128
 {
 	Patch "ADO10099", 0, 0
-	Patch "ADO10340", 0, 0
+	Patch "ADO10353", 0, 0
 }
 Texture "ADO10102", 128, 128
 {
 	Patch "ADO10100", 0, 0
-	Patch "ADO10340", 0, 0
+	Patch "ADO10353", 0, 0
 }
 Texture "ADO10103", 128, 128
 {
 	Patch "ADO10099", 0, 0
-	Patch "ADO10339", 2, 3
+	Patch "ADO10352", 2, 3
 }
 Texture "ADO10104", 128, 128
 {
 	Patch "ADO10100", 0, 0
-	Patch "ADO10339", 2, 3
+	Patch "ADO10352", 2, 3
 }
 Texture "ADO10216", 64, 64
 {
+	Patch "ADO10354", 0, 0
 }
 Texture "ADO10280", 16, 128
 {
+	Patch "ADO10414", 0, 0
+	Patch "ADO10414", 0, 64
 }
 Texture "ADO10283", 256, 128
 {
-	Patch "ADO10369", -128, 0
-	Patch "ADO10369", 128, 0
+	Patch "ADO10519", -128, 0
+	Patch "ADO10519", 128, 0
 }
 Texture "ADO10285", 128, 128
 {

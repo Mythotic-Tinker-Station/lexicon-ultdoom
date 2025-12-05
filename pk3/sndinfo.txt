@@ -4,3 +4,4 @@ ADO1/DSSSDTH				ADO10002
 
 // Nostalgia Zero
 NSGZ/DSPLASMA				NSGZ0001
+$limit						NSGZ/DSPLASMA 0
