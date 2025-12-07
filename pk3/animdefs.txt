@@ -66,3 +66,12 @@ switch SLRS0158 on pic SLRS0172 tics 0
 switch SLRS0159 on pic SLRS0160 tics 0
 switch SLRS0161 on pic SLRS0162 tics 0
 switch SLRS0163 on pic SLRS0164 tics 0
+
+// (The Ultimate) Return to Hadron
+texture URTH0050 range URTH0053 tics 8
+texture URTH0054 range URTH0057 tics 8
+texture URTH0058 range URTH0061 tics 8
+texture URTH0062 range URTH0065 tics 8
+switch URTH0040 on pic URTH0045 tics 0
+switch URTH0043 on pic URTH0048 tics 0
+

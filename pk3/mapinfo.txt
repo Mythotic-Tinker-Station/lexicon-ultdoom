@@ -12,3 +12,4 @@ include "mapinfo/WD13.txt" // WD13.WAD
 include "mapinfo/NOSTALGIAZERO.txt" // nostzero.wad
 include "mapinfo/STICKNEY.txt" // Stickney.wad
 include "mapinfo/SOLARSTRUGGLE.txt" // sstruggle.wad
+include "mapinfo/HADRON.txt" // uhadron.wad

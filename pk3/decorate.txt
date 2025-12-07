@@ -1,2 +1,3 @@
 #include "decorate/ADO1.txt" // 2002 A Doom Odyssey - 10th Anniversary Edition
 #include "decorate/NSGZ.txt" // Nostalgia Zero
+#include "decorate/URTH.txt" // (The Ultimate) Return to Hadron
