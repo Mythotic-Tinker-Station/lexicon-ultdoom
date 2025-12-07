@@ -11,3 +11,4 @@ include "mapinfo/LOSTEPISODES.txt" // JPTR_V40.WAD
 include "mapinfo/WD13.txt" // WD13.WAD
 include "mapinfo/NOSTALGIAZERO.txt" // nostzero.wad
 include "mapinfo/STICKNEY.txt" // Stickney.wad
+include "mapinfo/SOLARSTRUGGLE.txt" // sstruggle.wad
