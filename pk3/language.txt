@@ -17,6 +17,7 @@ LEX_ULTD_12 = "NSGZ";
 LEX_ULTD_13 = "STKN";
 LEX_ULTD_14 = "SLRS";
 LEX_ULTD_15 = "URTH";
+LEX_ULTD_16 = "DTCT";
 
 // 2002 A Doom Odyssey - 10th Anniversary Edition
 ADO1_ACTOR_1 = "Lexicon_ADO1_WolfensteinSS";
@@ -161,3 +162,14 @@ URTH_MAPSET_MAPS = "36";
 URTH_MAPSET_TITLE = "Return to Hadron";
 URTH_MAPSET_PACK = "ULTD";
 URTH_MAPSET_IWAD = "doom1";
+
+// Death Tormention: The Complete Trilogy
+DTCT_ACTOR_1 = "Lexicon_DTCT_DeadLostSoul";
+DTCT_TAG_DEADLOSTSOUL = "Stealth Baron";
+DTCT_MAPSET_AUTHORS = "Paul Corfiatis, Kristian Aro, Chris Harbin, Chris Harriman";
+DTCT_MAPSET_CUSTOM = "Y";
+DTCT_MAPSET_DATE = "2019";
+DTCT_MAPSET_MAPS = "38";
+DTCT_MAPSET_TITLE = "Death Tormention";
+DTCT_MAPSET_PACK = "ULTD";
+DTCT_MAPSET_IWAD = "doom1";

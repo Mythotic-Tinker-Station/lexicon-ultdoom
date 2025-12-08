@@ -75,3 +75,19 @@ texture URTH0062 range URTH0065 tics 8
 switch URTH0040 on pic URTH0045 tics 0
 switch URTH0043 on pic URTH0048 tics 0
 
+// Death Tormention: The Complete Trilogy
+texture DTCT0051 range DTCT0054 tics 8
+texture DTCT0125 range DTCT0128 tics 8
+texture DTCT0129 range DTCT0132 tics 8
+texture DTCT0133 range DTCT0136 tics 8
+flat DTCT0012 range DTCT0015 tics 8
+flat DTCT0027 range DTCT0030 tics 8
+flat DTCT0035 range DTCT0038 tics 8
+switch DTCT0140 on pic DTCT0147 tics 0
+switch DTCT0141 on pic DTCT0148 tics 0
+switch DTCT0142 on pic DTCT0149 tics 0
+switch DTCT0143 on pic DTCT0150 tics 0
+switch DTCT0144 on pic DTCT0151 tics 0
+switch DTCT0145 on pic DTCT0152 tics 0
+switch DTCT0146 on pic DTCT0153 tics 0
+texture DTCT0260 range DTCT0261 tics 8
