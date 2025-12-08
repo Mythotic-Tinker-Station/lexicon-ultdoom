@@ -1,0 +1,78 @@
+===========================================================================
+Advanced engine needed  : Limit-Removing
+Primary purpose         : Single play
+===========================================================================
+Title                   : FRAYED
+Filename                : FRAYED.wad
+Release date            : July 05, 2024
+Author                  : John Carrell (J-Force)
+Email Address           : [redacted]
+
+Description             : Four classic style vanilla Doom episodes!
+                          36 Action packed maps!
+                          Challenging trap filled gameplay
+                          Operation Obsolete - Doomguy finds himself in an
+                          abandoned run down UAC base over-run with
+                          hellspawn!
+                          Crude Reserve - This terrestrial wasteland is now a
+                          sea of Oil! Escape the toxic polluted grounds of
+                          Petroleum fueled terror!
+                          Lethal Sea - The name says it all! Lost at sea and
+                          marooned in shores of hellish terror!
+                          The Darkest Void - Your Mind Frayed! Doomguys
+                          toughest challenge in this adventure! Escape the
+                          encroaching black hole that beckons...
+                          Can you find my secret maps..?
+
+Additional Credits to   : Maple_Leaf_FALL for playtesting, demos and the
+                          amazing TriKrug flat!
+===========================================================================
+* What is included *
+
+New levels              : 36
+Sounds                  : No
+Music                   : No
+Graphics                : No
+Dehacked/BEX Patch      : Yes
+Demos                   : Yes
+Other                   : No
+Other files required    : None
+
+
+* Play Information *
+
+Game                    : Doom
+Single Player           : Designed for
+Cooperative 2-4 Player  : Player starts only
+Deathmatch 2-4 Player   : No
+Other game styles       : None
+Difficulty Settings     : Yes
+
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : 04/06/2024 - 07/03/2024 (3 Months)
+Editor(s) used          : Ultimate Doom builder, Slade 3.
+Known Bugs              : none known
+May Not Run With        : none known
+Tested With             : Crispy Doom, PRBOOM, GZDOOM, Zandronum.
+
+
+* Copyright / Permissions *
+
+This work is licensed under the Creative Commons
+Attribution-NonCommercial-NoDerivatives 4.0 International License. To view a
+copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/
+
+You are free to copy and redistribute the material in any medium or format.
+If you do so, you must give appropriate credit, provide a link to the
+license, and indicate if changes were made. You may do so in any reasonable
+manner, but not in any way that suggests the licensor endorses you or your
+use. You may not use the material for commercial purposes. If you remix,
+transform, or build upon the material, you may not distribute the modified
+material.
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.gamers.org/pub/idgames/ and mirrors

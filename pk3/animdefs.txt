@@ -91,3 +91,29 @@ switch DTCT0144 on pic DTCT0151 tics 0
 switch DTCT0145 on pic DTCT0152 tics 0
 switch DTCT0146 on pic DTCT0153 tics 0
 texture DTCT0260 range DTCT0261 tics 8
+
+// FRAYED
+texture FRAY0065 range FRAY0068 tics 8
+texture FRAY0069 range FRAY0072 tics 8
+texture FRAY0074 range FRAY0076 tics 8
+texture FRAY0078 range FRAY0080 tics 8
+texture FRAY0096 range FRAY0099 tics 8
+texture FRAY0100 range FRAY0103 tics 8
+texture FRAY0131 range FRAY0133 tics 8
+texture FRAY0135 range FRAY0138 tics 8
+texture FRAY0139 range FRAY0142 tics 8
+texture FRAY0147 range FRAY0148 tics 160
+texture FRAY0148 range FRAY0150 tics 80
+texture FRAY0166 range FRAY0168 tics 8
+texture FRAY0174 range FRAY0175 tics 8
+flat FRAY0006 range FRAY0009 tics 8
+flat FRAY0012 range FRAY0015 tics 8
+flat FRAY0023 range FRAY0025 tics 8
+flat FRAY0035 range FRAY0038 tics 8
+switch FRAY0055 on pic FRAY0060 tics 0
+switch FRAY0056 on pic FRAY0061 tics 0
+switch FRAY0057 on pic FRAY0062 tics 0
+switch FRAY0058 on pic FRAY0063 tics 0
+switch FRAY0059 on pic FRAY0064 tics 0
+switch FRAY0093 on pic FRAY0094 tics 0
+switch FRAY0179 on pic FRAY0180 tics 0
