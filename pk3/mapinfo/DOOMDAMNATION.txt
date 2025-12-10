@@ -101,7 +101,7 @@ map DDAME1M9 "Phobos Sewers"
 
 map DDAME2M1 "Deimos Satellite"
 {
-	titlepatch = "WILV09"
+	titlepatch = "WILV10"
 	next = "DDAME2M2"
 	secretnext = "DDAME2M2"
 	sky1 = "DSKY2"
@@ -111,7 +111,7 @@ map DDAME2M1 "Deimos Satellite"
 
 map DDAME2M2 "Sector 0"
 {
-	titlepatch = "WILV10"
+	titlepatch = "WILV11"
 	next = "DDAME2M3"
 	secretnext = "DDAME2M3"
 	sky1 = "DSKY2"
@@ -121,7 +121,7 @@ map DDAME2M2 "Sector 0"
 
 map DDAME2M3 "Warehouse"
 {
-	titlepatch = "WILV11"
+	titlepatch = "WILV12"
 	next = "DDAME2M4"
 	secretnext = "DDAME2M4"
 	sky1 = "DSKY2"
@@ -131,7 +131,7 @@ map DDAME2M3 "Warehouse"
 
 map DDAME2M4 "Deimos Base"
 {
-	titlepatch = "WILV12"
+	titlepatch = "WILV13"
 	next = "DDAME2M5"
 	secretnext = "DDAME2M5"
 	sky1 = "DSKY2"
@@ -141,7 +141,7 @@ map DDAME2M4 "Deimos Base"
 
 map DDAME2M5 "The Temple"
 {
-	titlepatch = "WILV13"
+	titlepatch = "WILV14"
 	next = "DDAME2M6"
 	secretnext = "DDAME2M9"
 	sky1 = "DSKY2"
@@ -151,7 +151,7 @@ map DDAME2M5 "The Temple"
 
 map DDAME2M6 "Volcano"
 {
-	titlepatch = "WILV14"
+	titlepatch = "WILV15"
 	next = "DDAME2M7"
 	secretnext = "DDAME2M7"
 	sky1 = "DSKY2"
@@ -161,7 +161,7 @@ map DDAME2M6 "Volcano"
 
 map DDAME2M7 "The Legion"
 {
-	titlepatch = "WILV15"
+	titlepatch = "WILV16"
 	next = "DDAME2M8"
 	secretnext = "DDAME2M8"
 	sky1 = "DSKY2"
@@ -171,7 +171,7 @@ map DDAME2M7 "The Legion"
 
 map DDAME2M8 "Hellgate"
 {
-	titlepatch = "WILV16"
+	titlepatch = "WILV17"
 	next = "DDAME3M1"
 	secretnext = "DDAME3M1"
 	sky1 = "DSKY2"
@@ -184,7 +184,7 @@ map DDAME2M8 "Hellgate"
 
 map DDAME2M9 "Chaos Fissure"
 {
-	titlepatch = "WILV17"
+	titlepatch = "WILV18"
 	next = "DDAME2M6"
 	secretnext = "DDAME2M6"
 	sky1 = "DSKY2"
@@ -194,7 +194,7 @@ map DDAME2M9 "Chaos Fissure"
 
 map DDAME3M1 "Shores of Hell"
 {
-	titlepatch = "WILV18"
+	titlepatch = "WILV20"
 	next = "DDAME3M2"
 	secretnext = "DDAME3M2"
 	sky1 = "DSKY3"
@@ -204,7 +204,7 @@ map DDAME3M1 "Shores of Hell"
 
 map DDAME3M2 "Unholy Valley"
 {
-	titlepatch = "WILV19"
+	titlepatch = "WILV21"
 	next = "DDAME3M3"
 	secretnext = "DDAME3M3"
 	sky1 = "DSKY3"
@@ -214,7 +214,7 @@ map DDAME3M2 "Unholy Valley"
 
 map DDAME3M3 "Pandeimos"
 {
-	titlepatch = "WILV20"
+	titlepatch = "WILV22"
 	next = "DDAME3M4"
 	secretnext = "DDAME3M4"
 	sky1 = "DSKY3"
@@ -224,7 +224,7 @@ map DDAME3M3 "Pandeimos"
 
 map DDAME3M4 "Deathlight"
 {
-	titlepatch = "WILV21"
+	titlepatch = "WILV23"
 	next = "DDAME3M5"
 	secretnext = "DDAME3M5"
 	sky1 = "DSKY3"
@@ -234,7 +234,7 @@ map DDAME3M4 "Deathlight"
 
 map DDAME3M5 "The Eternal Citadel"
 {
-	titlepatch = "WILV22"
+	titlepatch = "WILV24"
 	next = "DDAME3M6"
 	secretnext = "DDAME3M6"
 	sky1 = "DSKY3"
@@ -244,7 +244,7 @@ map DDAME3M5 "The Eternal Citadel"
 
 map DDAME3M6 "Infernal Kiln"
 {
-	titlepatch = "WILV23"
+	titlepatch = "WILV25"
 	next = "DDAME3M7"
 	secretnext = "DDAME3M9"
 	sky1 = "DSKY3"
@@ -254,7 +254,7 @@ map DDAME3M6 "Infernal Kiln"
 
 map DDAME3M7 "Event Horizon"
 {
-	titlepatch = "WILV24"
+	titlepatch = "WILV26"
 	next = "DDAME3M8"
 	secretnext = "DDAME3M8"
 	sky1 = "DSKY3"
@@ -264,7 +264,7 @@ map DDAME3M7 "Event Horizon"
 
 map DDAME3M8 "The First Portal"
 {
-	titlepatch = "WILV25"
+	titlepatch = "WILV27"
 	next = "DDAME4M1"
 	secretnext = "DDAME4M1"
 	sky1 = "DSKY3"
@@ -277,7 +277,7 @@ map DDAME3M8 "The First Portal"
 
 map DDAME3M9 "Pit of Nightmares"
 {
-	titlepatch = "WILV26"
+	titlepatch = "WILV28"
 	next = "DDAME3M7"
 	secretnext = "DDAME3M7"
 	sky1 = "DSKY3"
@@ -287,7 +287,7 @@ map DDAME3M9 "Pit of Nightmares"
 
 map DDAME4M1 "UAC Earth"
 {
-	titlepatch = "WILV27"
+	titlepatch = "WILV30"
 	next = "DDAME4M2"
 	secretnext = "DDAME4M2"
 	sky1 = "DSKY4"
@@ -297,7 +297,7 @@ map DDAME4M1 "UAC Earth"
 
 map DDAME4M2 "Corrupted Sewers"
 {
-	titlepatch = "WILV28"
+	titlepatch = "WILV31"
 	next = "DDAME4M3"
 	secretnext = "DDAME4M9"
 	sky1 = "DSKY4"
@@ -307,7 +307,7 @@ map DDAME4M2 "Corrupted Sewers"
 
 map DDAME4M3 "Secret Chapel"
 {
-	titlepatch = "WILV29"
+	titlepatch = "WILV32"
 	next = "DDAME4M4"
 	secretnext = "DDAME4M4"
 	sky1 = "DSKY4"
@@ -317,7 +317,7 @@ map DDAME4M3 "Secret Chapel"
 
 map DDAME4M4 "Doomed City"
 {
-	titlepatch = "WILV30"
+	titlepatch = "WILV33"
 	next = "DDAME4M5"
 	secretnext = "DDAME4M5"
 	sky1 = "DSKY4"
@@ -327,7 +327,7 @@ map DDAME4M4 "Doomed City"
 
 map DDAME4M5 "Gore Nest"
 {
-	titlepatch = "WILV31"
+	titlepatch = "WILV34"
 	next = "DDAME4M6"
 	secretnext = "DDAME4M6"
 	sky1 = "DSKY4"
@@ -337,7 +337,7 @@ map DDAME4M5 "Gore Nest"
 
 map DDAME4M6 "Forest of Desolation"
 {
-	titlepatch = "WILV32"
+	titlepatch = "WILV35"
 	next = "DDAME4M7"
 	secretnext = "DDAME4M7"
 	sky1 = "DSKY4"
@@ -349,7 +349,7 @@ map DDAME4M6 "Forest of Desolation"
 
 map DDAME4M7 "UAC Alpha"
 {
-	titlepatch = "WILV33"
+	titlepatch = "WILV36"
 	next = "DDAME4M8"
 	secretnext = "DDAME4M8"
 	sky1 = "DSKY4"
@@ -359,7 +359,7 @@ map DDAME4M7 "UAC Alpha"
 
 map DDAME4M8 "Hell on Earth"
 {
-	titlepatch = "WILV34"
+	titlepatch = "WILV37"
 	next = "VR"
 	secretnext = "VR"
 	sky1 = "DSKY4"
@@ -372,7 +372,7 @@ map DDAME4M8 "Hell on Earth"
 
 map DDAME4M9 "The Canyon"
 {
-	titlepatch = "WILV35"
+	titlepatch = "WILV38"
 	next = "DDAME4M3"
 	secretnext = "DDAME4M3"
 	sky1 = "DSKY4"

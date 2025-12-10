@@ -87,7 +87,7 @@ map E1M9 lookup "HUSTR_E1M9"
 
 map E2M1 lookup "HUSTR_E2M1"
 {
-	titlepatch = "WILV09"
+	titlepatch = "WILV10"
 	next = "E2M2"
 	secretnext = "E2M2"
 	sky1 = "DSKY2"
@@ -96,7 +96,7 @@ map E2M1 lookup "HUSTR_E2M1"
 
 map E2M2 lookup "HUSTR_E2M2"
 {
-	titlepatch = "WILV10"
+	titlepatch = "WILV11"
 	next = "E2M3"
 	secretnext = "E2M3"
 	sky1 = "DSKY2"
@@ -105,7 +105,7 @@ map E2M2 lookup "HUSTR_E2M2"
 
 map E2M3 lookup "HUSTR_E2M3"
 {
-	titlepatch = "WILV11"
+	titlepatch = "WILV12"
 	next = "E2M4"
 	secretnext = "E2M4"
 	sky1 = "DSKY2"
@@ -114,7 +114,7 @@ map E2M3 lookup "HUSTR_E2M3"
 
 map E2M4 lookup "HUSTR_E2M4"
 {
-	titlepatch = "WILV12"
+	titlepatch = "WILV13"
 	next = "E2M5"
 	secretnext = "E2M5"
 	sky1 = "DSKY2"
@@ -123,7 +123,7 @@ map E2M4 lookup "HUSTR_E2M4"
 
 map E2M5 lookup "HUSTR_E2M5"
 {
-	titlepatch = "WILV13"
+	titlepatch = "WILV14"
 	next = "E2M6"
 	secretnext = "E2M9"
 	sky1 = "DSKY2"
@@ -132,7 +132,7 @@ map E2M5 lookup "HUSTR_E2M5"
 
 map E2M6 lookup "HUSTR_E2M6"
 {
-	titlepatch = "WILV14"
+	titlepatch = "WILV15"
 	next = "E2M7"
 	secretnext = "E2M7"
 	sky1 = "DSKY2"
@@ -141,7 +141,7 @@ map E2M6 lookup "HUSTR_E2M6"
 
 map E2M7 lookup "HUSTR_E2M7"
 {
-	titlepatch = "WILV15"
+	titlepatch = "WILV16"
 	next = "E2M8"
 	secretnext = "E2M8"
 	sky1 = "DSKY2"
@@ -150,7 +150,7 @@ map E2M7 lookup "HUSTR_E2M7"
 
 map E2M8 lookup "HUSTR_E2M8"
 {
-	titlepatch = "WILV16"
+	titlepatch = "WILV17"
 	next = "E3M1"
 	secretnext = "E3M1"
 	sky1 = "DSKY2"
@@ -162,7 +162,7 @@ map E2M8 lookup "HUSTR_E2M8"
 
 map E2M9 lookup "HUSTR_E2M9"
 {
-	titlepatch = "WILV17"
+	titlepatch = "WILV18"
 	next = "E2M6"
 	secretnext = "E2M6"
 	sky1 = "DSKY2"
@@ -171,7 +171,7 @@ map E2M9 lookup "HUSTR_E2M9"
 
 map E3M1 lookup "HUSTR_E3M1"
 {
-	titlepatch = "WILV18"
+	titlepatch = "WILV20"
 	next = "E3M2"
 	secretnext = "E3M2"
 	sky1 = "DSKY3"
@@ -180,7 +180,7 @@ map E3M1 lookup "HUSTR_E3M1"
 
 map E3M2 lookup "HUSTR_E3M2"
 {
-	titlepatch = "WILV19"
+	titlepatch = "WILV21"
 	next = "E3M3"
 	secretnext = "E3M3"
 	sky1 = "DSKY3"
@@ -189,7 +189,7 @@ map E3M2 lookup "HUSTR_E3M2"
 
 map E3M3 lookup "HUSTR_E3M3"
 {
-	titlepatch = "WILV20"
+	titlepatch = "WILV22"
 	next = "E3M4"
 	secretnext = "E3M4"
 	sky1 = "DSKY3"
@@ -198,7 +198,7 @@ map E3M3 lookup "HUSTR_E3M3"
 
 map E3M4 lookup "HUSTR_E3M4"
 {
-	titlepatch = "WILV21"
+	titlepatch = "WILV23"
 	next = "E3M5"
 	secretnext = "E3M5"
 	sky1 = "DSKY3"
@@ -207,7 +207,7 @@ map E3M4 lookup "HUSTR_E3M4"
 
 map E3M5 lookup "HUSTR_E3M5"
 {
-	titlepatch = "WILV22"
+	titlepatch = "WILV24"
 	next = "E3M6"
 	secretnext = "E3M6"
 	sky1 = "DSKY3"
@@ -216,7 +216,7 @@ map E3M5 lookup "HUSTR_E3M5"
 
 map E3M6 lookup "HUSTR_E3M6"
 {
-	titlepatch = "WILV23"
+	titlepatch = "WILV25"
 	next = "E3M7"
 	secretnext = "E3M9"
 	sky1 = "DSKY3"
@@ -225,7 +225,7 @@ map E3M6 lookup "HUSTR_E3M6"
 
 map E3M7 lookup "HUSTR_E3M7"
 {
-	titlepatch = "WILV24"
+	titlepatch = "WILV26"
 	next = "E3M8"
 	secretnext = "E3M8"
 	sky1 = "DSKY3"
@@ -234,7 +234,7 @@ map E3M7 lookup "HUSTR_E3M7"
 
 map E3M8 lookup "HUSTR_E3M8"
 {
-	titlepatch = "WILV25"
+	titlepatch = "WILV27"
 	next = "E4M1"
 	secretnext = "E4M1"
 	sky1 = "DSKY3"
@@ -246,7 +246,7 @@ map E3M8 lookup "HUSTR_E3M8"
 
 map E3M9 lookup "HUSTR_E3M9"
 {
-	titlepatch = "WILV26"
+	titlepatch = "WILV28"
 	next = "E3M7"
 	secretnext = "E3M7"
 	sky1 = "DSKY3"
@@ -255,7 +255,7 @@ map E3M9 lookup "HUSTR_E3M9"
 
 map E4M1 lookup "HUSTR_E4M1"
 {
-	titlepatch = "WILV27"
+	titlepatch = "WILV30"
 	next = "E4M2"
 	secretnext = "E4M2"
 	sky1 = "DSKY4"
@@ -264,7 +264,7 @@ map E4M1 lookup "HUSTR_E4M1"
 
 map E4M2 lookup "HUSTR_E4M2"
 {
-	titlepatch = "WILV28"
+	titlepatch = "WILV31"
 	next = "E4M3"
 	secretnext = "E4M9"
 	sky1 = "DSKY4"
@@ -273,7 +273,7 @@ map E4M2 lookup "HUSTR_E4M2"
 
 map E4M3 lookup "HUSTR_E4M3"
 {
-	titlepatch = "WILV29"
+	titlepatch = "WILV32"
 	next = "E4M4"
 	secretnext = "E4M4"
 	sky1 = "DSKY4"
@@ -282,7 +282,7 @@ map E4M3 lookup "HUSTR_E4M3"
 
 map E4M4 lookup "HUSTR_E4M4"
 {
-	titlepatch = "WILV30"
+	titlepatch = "WILV33"
 	next = "E4M5"
 	secretnext = "E4M5"
 	sky1 = "DSKY4"
@@ -291,7 +291,7 @@ map E4M4 lookup "HUSTR_E4M4"
 
 map E4M5 lookup "HUSTR_E4M5"
 {
-	titlepatch = "WILV31"
+	titlepatch = "WILV34"
 	next = "E4M6"
 	secretnext = "E4M6"
 	sky1 = "DSKY4"
@@ -300,7 +300,7 @@ map E4M5 lookup "HUSTR_E4M5"
 
 map E4M6 lookup "HUSTR_E4M6"
 {
-	titlepatch = "WILV32"
+	titlepatch = "WILV35"
 	next = "E4M7"
 	secretnext = "E4M7"
 	sky1 = "DSKY4"
@@ -311,7 +311,7 @@ map E4M6 lookup "HUSTR_E4M6"
 
 map E4M7 lookup "HUSTR_E4M7"
 {
-	titlepatch = "WILV33"
+	titlepatch = "WILV36"
 	next = "E4M8"
 	secretnext = "E4M8"
 	sky1 = "DSKY4"
@@ -320,7 +320,7 @@ map E4M7 lookup "HUSTR_E4M7"
 
 map E4M8 lookup "HUSTR_E4M8"
 {
-	titlepatch = "WILV34"
+	titlepatch = "WILV37"
 	next = "VR"
 	secretnext = "VR"
 	sky1 = "DSKY4"
@@ -332,7 +332,7 @@ map E4M8 lookup "HUSTR_E4M8"
 
 map E4M9 lookup "HUSTR_E4M9"
 {
-	titlepatch = "WILV35"
+	titlepatch = "WILV38"
 	next = "E4M3"
 	secretnext = "E4M3"
 	sky1 = "DSKY4"

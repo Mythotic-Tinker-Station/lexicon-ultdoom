@@ -1,1 +1,2 @@
 #include "gldefs/NSGZ.txt" // Nostalgia Zero
+#include "gldefs/DTHL.txt" // Deathless
