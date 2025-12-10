@@ -138,3 +138,14 @@ switch DTHL0091 on pic DTHL0096 tics 0
 switch DTHL0093 on pic DTHL0098 tics 0
 switch DTHL0094 on pic DTHL0099 tics 0
 switch DTHL0095 on pic DTHL0100 tics 0
+
+// The Ultimate Doom In Name Only
+texture UDIN0014 range UDIN0017 tics 8
+texture UDIN0018 range UDIN0021 tics 8
+texture UDIN0022 range UDIN0025 tics 8
+texture UDIN0026 range UDIN0029 tics 8
+switch UDIN0003 on pic UDIN0008 tics 0
+switch UDIN0004 on pic UDIN0009 tics 0
+switch UDIN0005 on pic UDIN0010 tics 0
+switch UDIN0006 on pic UDIN0011 tics 0
+switch UDIN0007 on pic UDIN0012 tics 0

@@ -17,3 +17,4 @@ include "mapinfo/DTPACK.txt" // DTPACK.wad
 include "mapinfo/FRAYED.txt" // FRAYED.wad
 include "mapinfo/NMDU.txt" // nmdu.wad
 include "mapinfo/DEATHLESS.txt" // deathless.wad
+include "mapinfo/UDINO.txt" // UDINO.wad
