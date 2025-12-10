@@ -46,26 +46,26 @@ switch NSGZ0039 on pic NSGZ0044 tics 0
 switch NSGZ0050 on pic NSGZ0051 tics 0
 
 // Solar Struggle
-texture SLRS0051 range SLRS0054 tics 8
-texture SLRS0120 range SLRS0123 tics 8
-texture SLRS0188 range SLRS0191 tics 8
-texture SLRS0217 range SLRS0220 tics 8
-texture SLRS0226 range SLRS0229 tics 8
+texture SLRS0053 range SLRS0056 tics 8
+texture SLRS0122 range SLRS0125 tics 8
+texture SLRS0190 range SLRS0193 tics 8
+texture SLRS0219 range SLRS0222 tics 8
+texture SLRS0228 range SLRS0231 tics 8
 flat SLRS0008 range SLRS0011 tics 8
 flat SLRS0024 range SLRS0027 tics 8
 flat SLRS0028 range SLRS0031 tics 8
 flat SLRS0032 range SLRS0035 tics 8
-switch SLRS0151 on pic SLRS0165 tics 0
-switch SLRS0152 on pic SLRS0166 tics 0
 switch SLRS0153 on pic SLRS0167 tics 0
 switch SLRS0154 on pic SLRS0168 tics 0
 switch SLRS0155 on pic SLRS0169 tics 0
 switch SLRS0156 on pic SLRS0170 tics 0
 switch SLRS0157 on pic SLRS0171 tics 0
 switch SLRS0158 on pic SLRS0172 tics 0
-switch SLRS0159 on pic SLRS0160 tics 0
+switch SLRS0159 on pic SLRS0173 tics 0
+switch SLRS0160 on pic SLRS0174 tics 0
 switch SLRS0161 on pic SLRS0162 tics 0
 switch SLRS0163 on pic SLRS0164 tics 0
+switch SLRS0165 on pic SLRS0166 tics 0
 
 // (The Ultimate) Return to Hadron
 texture URTH0050 range URTH0053 tics 8
@@ -117,3 +117,10 @@ switch FRAY0058 on pic FRAY0063 tics 0
 switch FRAY0059 on pic FRAY0064 tics 0
 switch FRAY0093 on pic FRAY0094 tics 0
 switch FRAY0179 on pic FRAY0180 tics 0
+
+// The Ultimate NMD
+switch NMDU0002 on pic NMDU0007 tics 0
+switch NMDU0003 on pic NMDU0008 tics 0
+switch NMDU0004 on pic NMDU0009 tics 0
+switch NMDU0005 on pic NMDU0010 tics 0
+switch NMDU0006 on pic NMDU0011 tics 0

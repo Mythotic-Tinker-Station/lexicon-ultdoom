@@ -15,3 +15,4 @@ include "mapinfo/SOLARSTRUGGLE.txt" // sstruggle.wad
 include "mapinfo/HADRON.txt" // uhadron.wad
 include "mapinfo/DTPACK.txt" // DTPACK.wad
 include "mapinfo/FRAYED.txt" // FRAYED.wad
+include "mapinfo/NMDU.txt" // nmdu.wad
