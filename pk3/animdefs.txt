@@ -149,3 +149,16 @@ switch UDIN0004 on pic UDIN0009 tics 0
 switch UDIN0005 on pic UDIN0010 tics 0
 switch UDIN0006 on pic UDIN0011 tics 0
 switch UDIN0007 on pic UDIN0012 tics 0
+
+// 2022 A Doom Odyssey
+texture ADO20027 range ADO20030 tics 8
+texture ADO20031 range ADO20034 tics 8
+texture ADO20035 range ADO20038 tics 8
+texture ADO20039 range ADO20042 tics 8
+flat ADO20009 range ADO20012 tics 8
+flat ADO20019 range ADO20022 tics 8
+switch ADO20070 on pic ADO20075 tics 0
+switch ADO20071 on pic ADO20076 tics 0
+switch ADO20072 on pic ADO20077 tics 0
+switch ADO20073 on pic ADO20078 tics 0
+switch ADO20074 on pic ADO20079 tics 0

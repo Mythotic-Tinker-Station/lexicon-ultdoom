@@ -1,6 +1,7 @@
 Lexicon Ultimate Authors
 ---------------
-2002 A Doom Odyssey - 10th Anniversary Edition: Snarboo, 1994TU Team
+2002 A Doom Odyssey - 10th Anniversary Edition: Paul Corfiatis, various authors
+2022 A Doom Odyssey: Paul Corfiatis, various authors
 Base Ganymede: Complete: Adam "Khorus" Woodmansey, various coopfixes by BLOODWOLF
 ConC.E.R.Ned: Matt "cannonball" Powell
 Deathless: Jimmy
@@ -10,6 +11,7 @@ Doom the Way id Did: The Lost Episodes: DTWID Team, music by Mr. Freeze, various
 Doom: Damnation: Ofisil
 Double Impact: RottKing, Ralphis, Unidoom
 Frayed: John Carrell
+Maps of Chaos: DoomVideoVault
 Nostalgia Zero: myolden
 Solar Struggle: ViolentBeetle, various authors
 Stickney Installation: Snaxalotl "Kyra"
