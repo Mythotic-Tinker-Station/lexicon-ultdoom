@@ -618,7 +618,7 @@ map ADO2E5M9 "A DOOMED ODYSSEY"
 	ExitPic = "ADO2INT4"
 	EnterPic = "ADO2INT4"
 	baronspecial
-	specialaction_OpenDoor
+	specialaction_lowerfloor
 }
 
 map ADO2E5MX "PLASMA"
