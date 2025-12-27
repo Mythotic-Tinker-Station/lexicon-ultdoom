@@ -162,3 +162,15 @@ switch ADO20071 on pic ADO20076 tics 0
 switch ADO20072 on pic ADO20077 tics 0
 switch ADO20073 on pic ADO20078 tics 0
 switch ADO20074 on pic ADO20079 tics 0
+
+// No End in Sight
+texture NEIS0432 range NEIS0434 tics 8 allowdecals
+switch NEIS0066 on pic NEIS0074 tics 0
+switch NEIS0067 on pic NEIS0075 tics 0
+switch NEIS0068 on pic NEIS0076 tics 0
+switch NEIS0069 on pic NEIS0077 tics 0
+switch NEIS0070 on pic NEIS0078 tics 0
+switch NEIS0071 on pic NEIS0079 tics 0
+switch NEIS0072 on pic NEIS0080 tics 0
+switch NEIS0073 on pic NEIS0081 tics 0
+switch NEIS0439 on pic NEIS0440 tics 0

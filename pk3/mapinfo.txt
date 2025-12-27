@@ -20,3 +20,4 @@ include "mapinfo/DEATHLESS.txt" // deathless.wad
 include "mapinfo/UDINO.txt" // UDINO.wad
 include "mapinfo/MOC1.txt" // mapsofchaos-ok.wad
 include "mapinfo/2022ADO.txt" // 2022ado.wad
+include "mapinfo/NEIS.txt" // NEIS.wad
