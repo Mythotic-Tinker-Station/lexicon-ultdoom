@@ -1,30 +1,20 @@
-Texture "DTHL0040", 128, 128
+Texture "DTHL0042", 128, 128
 {
 	Patch "WALL62_2", 0, 0
 	Patch "PS20A0", 1, 60
 	Patch "WALL62_2", 64, 0
 }
-Texture "DTHL0041", 128, 128
+Texture "DTHL0043", 128, 128
 {
 	Patch "WALL62_1", 0, 0
 	Patch "PS20A0", 0, 57
 }
-Texture "DTHL0048", 64, 128
+Texture "DTHL0050", 64, 128
 {
 	Patch "GCRATEL1", 0, 0
 	Patch "GCRATER1", 32, 0
 	Patch "BCRATEL1", 0, 64
 	Patch "BCRATER1", 32, 64
-}
-Texture "DTHL0049", 128, 128
-{
-	Patch "DTHL0260", 0, 0
-	Patch "DTHL0256", 64, 0
-}
-Texture "DTHL0050", 128, 128
-{
-	Patch "DTHL0261", 0, 0
-	Patch "DTHL0257", 64, 0
 }
 Texture "DTHL0051", 128, 128
 {
@@ -36,40 +26,50 @@ Texture "DTHL0052", 128, 128
 	Patch "DTHL0263", 0, 0
 	Patch "DTHL0259", 64, 0
 }
-Texture "DTHL0084", 32, 16
+Texture "DTHL0053", 128, 128
+{
+	Patch "DTHL0264", 0, 0
+	Patch "DTHL0260", 64, 0
+}
+Texture "DTHL0054", 128, 128
+{
+	Patch "DTHL0265", 0, 0
+	Patch "DTHL0261", 64, 0
+}
+Texture "DTHL0086", 32, 16
 {
 	Patch "STEP05", 0, 8
 	Patch "STEP05", 0, 5
 	Patch "STEP04", 0, 0
 }
-Texture "DTHL0086", 32, 16
+Texture "DTHL0088", 32, 16
 {
 	Patch "STEP05", 0, 0
 	Patch "STEP05", 0, 8
 }
-Texture "DTHL0087", 32, 16
+Texture "DTHL0089", 32, 16
 {
 	Patch "STEP09", 0, 0
 	Patch "STEP08", 0, 8
 }
-Texture "DTHL0091", 128, 128
+Texture "DTHL0093", 128, 128
 {
 	Patch "WALL62_1", 0, 0
 	Patch "SW1S0", 48, 72
 }
-Texture "DTHL0093", 128, 128
+Texture "DTHL0095", 128, 128
 {
 	Patch "SW19_3", 64, 0
 	Patch "SW19_4", 0, 0
 	Patch "SW3S0", 48, 76
 }
-Texture "DTHL0094", 64, 128
+Texture "DTHL0096", 64, 128
 {
 	Patch "W28_5", 0, 0
 	Patch "W28_8", 0, 64
 	Patch "WARNB0", 24, 73
 }
-Texture "DTHL0095", 64, 128
+Texture "DTHL0097", 64, 128
 {
 	Patch "WALL01_1", 0, 0
 	Patch "WALL01_2", 16, 0
@@ -83,24 +83,24 @@ Texture "DTHL0095", 64, 128
 	Patch "W33_8", 0, 120
 	Patch "SW1S0", 16, 72
 }
-Texture "DTHL0096", 128, 128
+Texture "DTHL0098", 128, 128
 {
 	Patch "WALL62_1", 0, 0
 	Patch "SW1S1", 48, 72
 }
-Texture "DTHL0098", 128, 128
+Texture "DTHL0100", 128, 128
 {
 	Patch "SW19_3", 64, 0
 	Patch "SW19_4", 0, 0
 	Patch "SW3S1", 48, 76
 }
-Texture "DTHL0099", 64, 128
+Texture "DTHL0101", 64, 128
 {
 	Patch "W28_8", 0, 64
 	Patch "WARNA0", 24, 73
 	Patch "W28_5", 0, 0
 }
-Texture "DTHL0100", 64, 128
+Texture "DTHL0102", 64, 128
 {
 	Patch "WALL01_1", 0, 0
 	Patch "WALL01_2", 16, 0
@@ -114,14 +114,14 @@ Texture "DTHL0100", 64, 128
 	Patch "W33_8", 0, 120
 	Patch "SW1S1", 16, 72
 }
-Texture "DTHL0102", 256, 128
+Texture "DTHL0104", 256, 128
 {
-	Patch "DTHL0220", 0, 0
-	Patch "DTHL0221", 128, 0
-	Patch "DTHL0222", 64, 0
-	Patch "DTHL0223", 192, 0
+	Patch "DTHL0222", 0, 0
+	Patch "DTHL0223", 128, 0
+	Patch "DTHL0224", 64, 0
+	Patch "DTHL0225", 192, 0
 }
-Texture "DTHL0140", 256, 128
+Texture "DTHL0142", 256, 128
 {
 	Patch "WALL01_1", 0, 0
 	Patch "WALL01_2", 16, 0
@@ -165,86 +165,86 @@ Texture "DTHL0140", 256, 128
 	Patch "W33_8", 192, 120
 	Patch "W107_1", 0, 0
 }
-Texture "DTHL0141", 256, 128
+Texture "DTHL0143", 256, 128
 {
 	Patch "WALL40_1", 128, 0
 	Patch "WALL40_2", 0, 0
 	Patch "W107_1", 0, 0
 }
-Texture "DTHL0142", 256, 128
+Texture "DTHL0144", 256, 128
 {
 	Patch "W96_1", -4, 0
 	Patch "W96_2", 124, 0
 	Patch "W96_1", 252, 0
 	Patch "W107_1", 0, 0
 }
-Texture "DTHL0143", 256, 128
+Texture "DTHL0145", 256, 128
 {
-	Patch "DTHL0043", 0, 0
-	Patch "DTHL0043", 64, 0
-	Patch "DTHL0043", 128, 0
-	Patch "DTHL0043", 192, 0
+	Patch "DTHL0045", 0, 0
+	Patch "DTHL0045", 64, 0
+	Patch "DTHL0045", 128, 0
+	Patch "DTHL0045", 192, 0
 	Patch "W107_1", 0, 0
-}
-Texture "DTHL0150", 128, 128
-{
-	Patch "TP5_1", 0, 0
-	Patch "TP5_1", 32, 0
-	Patch "DTHL0238", 64, 0
-}
-Texture "DTHL0151", 128, 128
-{
-	Patch "TP5_2", 0, 0
-	Patch "TP5_2", 32, 0
-	Patch "DTHL0239", 64, 0
 }
 Texture "DTHL0152", 128, 128
 {
-	Patch "TP5_3", 0, 0
-	Patch "TP5_3", 32, 0
+	Patch "TP5_1", 0, 0
+	Patch "TP5_1", 32, 0
 	Patch "DTHL0240", 64, 0
 }
 Texture "DTHL0153", 128, 128
 {
-	Patch "TP5_4", 0, 0
-	Patch "TP5_4", 32, 0
+	Patch "TP5_2", 0, 0
+	Patch "TP5_2", 32, 0
 	Patch "DTHL0241", 64, 0
 }
 Texture "DTHL0154", 128, 128
 {
-	Patch "DTHL0274", 64, 0
-	Patch "RP2_1", 0, 0
-	Patch "RP2_1", 32, 0
+	Patch "TP5_3", 0, 0
+	Patch "TP5_3", 32, 0
+	Patch "DTHL0242", 64, 0
 }
 Texture "DTHL0155", 128, 128
 {
-	Patch "DTHL0275", 64, 0
-	Patch "RP2_2", 0, 0
-	Patch "RP2_2", 32, 0
+	Patch "TP5_4", 0, 0
+	Patch "TP5_4", 32, 0
+	Patch "DTHL0243", 64, 0
 }
 Texture "DTHL0156", 128, 128
 {
 	Patch "DTHL0276", 64, 0
-	Patch "RP2_3", 0, 0
-	Patch "RP2_3", 32, 0
+	Patch "RP2_1", 0, 0
+	Patch "RP2_1", 32, 0
 }
 Texture "DTHL0157", 128, 128
 {
 	Patch "DTHL0277", 64, 0
+	Patch "RP2_2", 0, 0
+	Patch "RP2_2", 32, 0
+}
+Texture "DTHL0158", 128, 128
+{
+	Patch "DTHL0278", 64, 0
+	Patch "RP2_3", 0, 0
+	Patch "RP2_3", 32, 0
+}
+Texture "DTHL0159", 128, 128
+{
+	Patch "DTHL0279", 64, 0
 	Patch "RP2_4", 0, 0
 	Patch "RP2_4", 32, 0
 }
-Texture "DTHL0158", 256, 128
+Texture "DTHL0160", 256, 128
 {
 	Patch "WALL03_4", 0, 0
 	Patch "WALL03_4", 0, 72
-	Patch "DTHL0246", 128, 0
+	Patch "DTHL0248", 128, 0
 	Patch "WALL03_4", 64, 0
 	Patch "WALL03_4", 64, 72
 	Patch "WALL03_4", 192, 0
 	Patch "WALL03_4", 192, 72
 }
-Texture "DTHL0159", 128, 128
+Texture "DTHL0161", 128, 128
 {
 	Patch "WALL04_3", 0, 0
 	Patch "WALL04_4", 16, 0
@@ -266,7 +266,7 @@ Texture "DTHL0159", 128, 128
 	Patch "WALL04_5", 64, 64
 	Patch "NUKEDGE", 64, 105
 }
-Texture "DTHL0160", 256, 128
+Texture "DTHL0162", 256, 128
 {
 	Patch "WALL49_1", 0, 0
 	Patch "WALL49_2", 64, 0

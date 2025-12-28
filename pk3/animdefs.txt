@@ -126,18 +126,18 @@ switch NMDU0005 on pic NMDU0010 tics 0
 switch NMDU0006 on pic NMDU0011 tics 0
 
 // Deathless
-texture DTHL0027 range DTHL0030 tics 8
-texture DTHL0049 range DTHL0052 tics 8
-texture DTHL0069 range DTHL0072 tics 8
-texture DTHL0117 range DTHL0120 tics 8
-texture DTHL0150 range DTHL0153 tics 8 allowdecals
-texture DTHL0154 range DTHL0157 tics 8 allowdecals
+texture DTHL0029 range DTHL0032 tics 8
+texture DTHL0051 range DTHL0054 tics 8
+texture DTHL0071 range DTHL0074 tics 8
+texture DTHL0119 range DTHL0122 tics 8
+texture DTHL0152 range DTHL0155 tics 8 allowdecals
+texture DTHL0156 range DTHL0159 tics 8 allowdecals
 flat DTHL0001 range DTHL0004 tics 8
 flat DTHL0005 range DTHL0008 tics 8
-switch DTHL0091 on pic DTHL0096 tics 0
 switch DTHL0093 on pic DTHL0098 tics 0
-switch DTHL0094 on pic DTHL0099 tics 0
 switch DTHL0095 on pic DTHL0100 tics 0
+switch DTHL0096 on pic DTHL0101 tics 0
+switch DTHL0097 on pic DTHL0102 tics 0
 
 // The Ultimate Doom In Name Only
 texture UDIN0014 range UDIN0017 tics 8
