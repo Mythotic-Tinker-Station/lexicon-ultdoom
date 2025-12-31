@@ -174,3 +174,13 @@ switch NEIS0071 on pic NEIS0079 tics 0
 switch NEIS0072 on pic NEIS0080 tics 0
 switch NEIS0073 on pic NEIS0081 tics 0
 switch NEIS0439 on pic NEIS0440 tics 0
+
+// Hell's Bane
+texture HLBN0012 range HLBN0015 tics 8
+texture HLBN0016 range HLBN0019 tics 8
+texture HLBN0020 range HLBN0023 tics 8
+texture HLBN0024 range HLBN0027 tics 8
+switch HLBN0002 on pic HLBN0007 tics 0
+switch HLBN0003 on pic HLBN0008 tics 0
+switch HLBN0005 on pic HLBN0010 tics 0
+switch HLBN0006 on pic HLBN0011 tics 0

@@ -4,3 +4,4 @@
 #include "decorate/DTCT.txt" // Death Tormention: The Complete Trilogy
 #include "decorate/DTHL.txt" // Deathless
 #include "decorate/FRAY.txt" // FRAYED
+#include "decorate/HLBN.txt" // Hell's Bane
